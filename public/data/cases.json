@@ -1,0 +1,9882 @@
+[
+  {
+    "id": "ca-case-001",
+    "title": "前端简历案例1",
+    "description": "通过前端简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001129",
+      "ca-q-002610",
+      "ca-q-002105"
+    ],
+    "tags": [
+      "前端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-002",
+    "title": "后端简历案例2",
+    "description": "通过后端简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001431",
+      "ca-q-001191",
+      "ca-q-002813"
+    ],
+    "tags": [
+      "后端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-003",
+    "title": "Java简历案例3",
+    "description": "通过Java简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000821",
+      "ca-q-002525",
+      "ca-q-000748"
+    ],
+    "tags": [
+      "Java简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-004",
+    "title": "Go简历案例4",
+    "description": "通过Go简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000564",
+      "ca-q-001611",
+      "ca-q-000410"
+    ],
+    "tags": [
+      "Go简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-005",
+    "title": "Python简历案例5",
+    "description": "通过Python简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000216",
+      "ca-q-003127",
+      "ca-q-000086"
+    ],
+    "tags": [
+      "Python简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-006",
+    "title": "数据分析简历案例6",
+    "description": "通过数据分析简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000541",
+      "ca-q-002302",
+      "ca-q-001298"
+    ],
+    "tags": [
+      "数据分析简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-007",
+    "title": "AI产品简历案例7",
+    "description": "通过AI产品简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000492",
+      "ca-q-000614",
+      "ca-q-000959"
+    ],
+    "tags": [
+      "AI产品简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-008",
+    "title": "测试简历案例8",
+    "description": "通过测试简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000818",
+      "ca-q-000894",
+      "ca-q-002582"
+    ],
+    "tags": [
+      "测试简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-009",
+    "title": "运维简历案例9",
+    "description": "通过运维简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001392",
+      "ca-q-001006",
+      "ca-q-000224"
+    ],
+    "tags": [
+      "运维简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-010",
+    "title": "嵌入式简历案例10",
+    "description": "通过嵌入式简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001475",
+      "ca-q-002256",
+      "ca-q-002187"
+    ],
+    "tags": [
+      "嵌入式简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-011",
+    "title": "项目包装案例11",
+    "description": "通过项目包装掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001843",
+      "ca-q-001018",
+      "ca-q-002974"
+    ],
+    "tags": [
+      "项目包装"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-012",
+    "title": "项目追问案例12",
+    "description": "通过项目追问掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001639",
+      "ca-q-002463",
+      "ca-q-001375"
+    ],
+    "tags": [
+      "项目追问"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-013",
+    "title": "自我介绍案例13",
+    "description": "通过自我介绍掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000601",
+      "ca-q-000440",
+      "ca-q-002592"
+    ],
+    "tags": [
+      "自我介绍"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-014",
+    "title": "HR面试案例14",
+    "description": "通过HR面试掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000893",
+      "ca-q-002342",
+      "ca-q-001131"
+    ],
+    "tags": [
+      "HR面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-015",
+    "title": "算法面试复盘案例15",
+    "description": "通过算法面试复盘掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001323",
+      "ca-q-002592",
+      "ca-q-002056"
+    ],
+    "tags": [
+      "算法面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-016",
+    "title": "系统设计面试案例16",
+    "description": "通过系统设计面试掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001838",
+      "ca-q-001496",
+      "ca-q-000304"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-017",
+    "title": "实习投递案例17",
+    "description": "通过实习投递掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001175",
+      "ca-q-000827",
+      "ca-q-003073"
+    ],
+    "tags": [
+      "实习投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-018",
+    "title": "校招投递案例18",
+    "description": "通过校招投递掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000576",
+      "ca-q-001356",
+      "ca-q-002973"
+    ],
+    "tags": [
+      "校招投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-019",
+    "title": "Offer比较案例19",
+    "description": "通过Offer比较掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002268",
+      "ca-q-001563",
+      "ca-q-001108"
+    ],
+    "tags": [
+      "Offer比较"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-020",
+    "title": "谈薪沟通案例20",
+    "description": "通过谈薪沟通掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003144",
+      "ca-q-000835",
+      "ca-q-002660"
+    ],
+    "tags": [
+      "谈薪沟通"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-021",
+    "title": "前端简历案例21",
+    "description": "通过前端简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000579",
+      "ca-q-000541",
+      "ca-q-003022"
+    ],
+    "tags": [
+      "前端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-022",
+    "title": "后端简历案例22",
+    "description": "通过后端简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000334",
+      "ca-q-001402",
+      "ca-q-001621"
+    ],
+    "tags": [
+      "后端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-023",
+    "title": "Java简历案例23",
+    "description": "通过Java简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002013",
+      "ca-q-002961",
+      "ca-q-001712"
+    ],
+    "tags": [
+      "Java简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-024",
+    "title": "Go简历案例24",
+    "description": "通过Go简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001755",
+      "ca-q-000894",
+      "ca-q-000016"
+    ],
+    "tags": [
+      "Go简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-025",
+    "title": "Python简历案例25",
+    "description": "通过Python简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003281",
+      "ca-q-000471",
+      "ca-q-001475"
+    ],
+    "tags": [
+      "Python简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-026",
+    "title": "数据分析简历案例26",
+    "description": "通过数据分析简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003159",
+      "ca-q-002667",
+      "ca-q-000795"
+    ],
+    "tags": [
+      "数据分析简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-027",
+    "title": "AI产品简历案例27",
+    "description": "通过AI产品简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002815",
+      "ca-q-001671",
+      "ca-q-003226"
+    ],
+    "tags": [
+      "AI产品简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-028",
+    "title": "测试简历案例28",
+    "description": "通过测试简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002325",
+      "ca-q-002136",
+      "ca-q-001086"
+    ],
+    "tags": [
+      "测试简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-029",
+    "title": "运维简历案例29",
+    "description": "通过运维简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001665",
+      "ca-q-000716",
+      "ca-q-001115"
+    ],
+    "tags": [
+      "运维简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-030",
+    "title": "嵌入式简历案例30",
+    "description": "通过嵌入式简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000455",
+      "ca-q-002242",
+      "ca-q-001210"
+    ],
+    "tags": [
+      "嵌入式简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-031",
+    "title": "项目包装案例31",
+    "description": "通过项目包装掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001761",
+      "ca-q-001898",
+      "ca-q-000821"
+    ],
+    "tags": [
+      "项目包装"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-032",
+    "title": "项目追问案例32",
+    "description": "通过项目追问掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002510",
+      "ca-q-003153",
+      "ca-q-000194"
+    ],
+    "tags": [
+      "项目追问"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-033",
+    "title": "自我介绍案例33",
+    "description": "通过自我介绍掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002732",
+      "ca-q-002281",
+      "ca-q-002180"
+    ],
+    "tags": [
+      "自我介绍"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-034",
+    "title": "HR面试案例34",
+    "description": "通过HR面试掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002080",
+      "ca-q-000114",
+      "ca-q-002142"
+    ],
+    "tags": [
+      "HR面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-035",
+    "title": "算法面试复盘案例35",
+    "description": "通过算法面试复盘掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000771",
+      "ca-q-001307",
+      "ca-q-002721"
+    ],
+    "tags": [
+      "算法面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-036",
+    "title": "系统设计面试案例36",
+    "description": "通过系统设计面试掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002699",
+      "ca-q-002270",
+      "ca-q-000050"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-037",
+    "title": "实习投递案例37",
+    "description": "通过实习投递掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000728",
+      "ca-q-001896",
+      "ca-q-003037"
+    ],
+    "tags": [
+      "实习投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-038",
+    "title": "校招投递案例38",
+    "description": "通过校招投递掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000877",
+      "ca-q-003257",
+      "ca-q-003078"
+    ],
+    "tags": [
+      "校招投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-039",
+    "title": "Offer比较案例39",
+    "description": "通过Offer比较掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002847",
+      "ca-q-002266",
+      "ca-q-002335"
+    ],
+    "tags": [
+      "Offer比较"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-040",
+    "title": "谈薪沟通案例40",
+    "description": "通过谈薪沟通掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000650",
+      "ca-q-000634",
+      "ca-q-002807"
+    ],
+    "tags": [
+      "谈薪沟通"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-041",
+    "title": "前端简历案例41",
+    "description": "通过前端简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002146",
+      "ca-q-000716",
+      "ca-q-000618"
+    ],
+    "tags": [
+      "前端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-042",
+    "title": "后端简历案例42",
+    "description": "通过后端简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001903",
+      "ca-q-000564",
+      "ca-q-000177"
+    ],
+    "tags": [
+      "后端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-043",
+    "title": "Java简历案例43",
+    "description": "通过Java简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003295",
+      "ca-q-002186",
+      "ca-q-000506"
+    ],
+    "tags": [
+      "Java简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-044",
+    "title": "Go简历案例44",
+    "description": "通过Go简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000021",
+      "ca-q-000686",
+      "ca-q-002909"
+    ],
+    "tags": [
+      "Go简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-045",
+    "title": "Python简历案例45",
+    "description": "通过Python简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002468",
+      "ca-q-002761",
+      "ca-q-003146"
+    ],
+    "tags": [
+      "Python简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-046",
+    "title": "数据分析简历案例46",
+    "description": "通过数据分析简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002098",
+      "ca-q-002900",
+      "ca-q-001315"
+    ],
+    "tags": [
+      "数据分析简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-047",
+    "title": "AI产品简历案例47",
+    "description": "通过AI产品简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003233",
+      "ca-q-000614",
+      "ca-q-002808"
+    ],
+    "tags": [
+      "AI产品简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-048",
+    "title": "测试简历案例48",
+    "description": "通过测试简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001249",
+      "ca-q-003475",
+      "ca-q-001843"
+    ],
+    "tags": [
+      "测试简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-049",
+    "title": "运维简历案例49",
+    "description": "通过运维简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001171",
+      "ca-q-000919",
+      "ca-q-002736"
+    ],
+    "tags": [
+      "运维简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-050",
+    "title": "嵌入式简历案例50",
+    "description": "通过嵌入式简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003190",
+      "ca-q-001263",
+      "ca-q-002000"
+    ],
+    "tags": [
+      "嵌入式简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-051",
+    "title": "项目包装案例51",
+    "description": "通过项目包装掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000661",
+      "ca-q-001053",
+      "ca-q-000478"
+    ],
+    "tags": [
+      "项目包装"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-052",
+    "title": "项目追问案例52",
+    "description": "通过项目追问掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003378",
+      "ca-q-000252",
+      "ca-q-003146"
+    ],
+    "tags": [
+      "项目追问"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-053",
+    "title": "自我介绍案例53",
+    "description": "通过自我介绍掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002130",
+      "ca-q-002510",
+      "ca-q-002780"
+    ],
+    "tags": [
+      "自我介绍"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-054",
+    "title": "HR面试案例54",
+    "description": "通过HR面试掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000098",
+      "ca-q-000059",
+      "ca-q-002832"
+    ],
+    "tags": [
+      "HR面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-055",
+    "title": "算法面试复盘案例55",
+    "description": "通过算法面试复盘掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003316",
+      "ca-q-003135",
+      "ca-q-000005"
+    ],
+    "tags": [
+      "算法面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-056",
+    "title": "系统设计面试案例56",
+    "description": "通过系统设计面试掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000328",
+      "ca-q-002929",
+      "ca-q-003472"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-057",
+    "title": "实习投递案例57",
+    "description": "通过实习投递掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000097",
+      "ca-q-002450",
+      "ca-q-002790"
+    ],
+    "tags": [
+      "实习投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-058",
+    "title": "校招投递案例58",
+    "description": "通过校招投递掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002528",
+      "ca-q-002140",
+      "ca-q-002206"
+    ],
+    "tags": [
+      "校招投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-059",
+    "title": "Offer比较案例59",
+    "description": "通过Offer比较掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002831",
+      "ca-q-002209",
+      "ca-q-003495"
+    ],
+    "tags": [
+      "Offer比较"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-060",
+    "title": "谈薪沟通案例60",
+    "description": "通过谈薪沟通掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002306",
+      "ca-q-001257",
+      "ca-q-000352"
+    ],
+    "tags": [
+      "谈薪沟通"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-061",
+    "title": "前端简历案例61",
+    "description": "通过前端简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000626",
+      "ca-q-001478",
+      "ca-q-002354"
+    ],
+    "tags": [
+      "前端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-062",
+    "title": "后端简历案例62",
+    "description": "通过后端简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000026",
+      "ca-q-002861",
+      "ca-q-002437"
+    ],
+    "tags": [
+      "后端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-063",
+    "title": "Java简历案例63",
+    "description": "通过Java简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003173",
+      "ca-q-002414",
+      "ca-q-000969"
+    ],
+    "tags": [
+      "Java简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-064",
+    "title": "Go简历案例64",
+    "description": "通过Go简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001922",
+      "ca-q-000218",
+      "ca-q-000249"
+    ],
+    "tags": [
+      "Go简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-065",
+    "title": "Python简历案例65",
+    "description": "通过Python简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000099",
+      "ca-q-001989",
+      "ca-q-003327"
+    ],
+    "tags": [
+      "Python简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-066",
+    "title": "数据分析简历案例66",
+    "description": "通过数据分析简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000689",
+      "ca-q-002142",
+      "ca-q-000115"
+    ],
+    "tags": [
+      "数据分析简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-067",
+    "title": "AI产品简历案例67",
+    "description": "通过AI产品简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000407",
+      "ca-q-002376",
+      "ca-q-002242"
+    ],
+    "tags": [
+      "AI产品简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-068",
+    "title": "测试简历案例68",
+    "description": "通过测试简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002301",
+      "ca-q-000507",
+      "ca-q-000448"
+    ],
+    "tags": [
+      "测试简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-069",
+    "title": "运维简历案例69",
+    "description": "通过运维简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001427",
+      "ca-q-002263",
+      "ca-q-001298"
+    ],
+    "tags": [
+      "运维简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-070",
+    "title": "嵌入式简历案例70",
+    "description": "通过嵌入式简历掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001736",
+      "ca-q-002076",
+      "ca-q-001855"
+    ],
+    "tags": [
+      "嵌入式简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-071",
+    "title": "项目包装案例71",
+    "description": "通过项目包装掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000311",
+      "ca-q-000887",
+      "ca-q-002463"
+    ],
+    "tags": [
+      "项目包装"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-072",
+    "title": "项目追问案例72",
+    "description": "通过项目追问掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003175",
+      "ca-q-002881",
+      "ca-q-003457"
+    ],
+    "tags": [
+      "项目追问"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-073",
+    "title": "自我介绍案例73",
+    "description": "通过自我介绍掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002597",
+      "ca-q-002997",
+      "ca-q-002181"
+    ],
+    "tags": [
+      "自我介绍"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-074",
+    "title": "HR面试案例74",
+    "description": "通过HR面试掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002401",
+      "ca-q-002645",
+      "ca-q-001332"
+    ],
+    "tags": [
+      "HR面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-075",
+    "title": "算法面试复盘案例75",
+    "description": "通过算法面试复盘掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002755",
+      "ca-q-001133",
+      "ca-q-001962"
+    ],
+    "tags": [
+      "算法面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-076",
+    "title": "系统设计面试案例76",
+    "description": "通过系统设计面试掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002904",
+      "ca-q-000209",
+      "ca-q-000638"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-077",
+    "title": "实习投递案例77",
+    "description": "通过实习投递掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001118",
+      "ca-q-000480",
+      "ca-q-001393"
+    ],
+    "tags": [
+      "实习投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-078",
+    "title": "校招投递案例78",
+    "description": "通过校招投递掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003038",
+      "ca-q-001242",
+      "ca-q-001457"
+    ],
+    "tags": [
+      "校招投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-079",
+    "title": "Offer比较案例79",
+    "description": "通过Offer比较掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002745",
+      "ca-q-002622",
+      "ca-q-002297"
+    ],
+    "tags": [
+      "Offer比较"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-080",
+    "title": "谈薪沟通案例80",
+    "description": "通过谈薪沟通掌握求职技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001355",
+      "ca-q-002047",
+      "ca-q-002620"
+    ],
+    "tags": [
+      "谈薪沟通"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-081",
+    "title": "前端简历案例81",
+    "description": "通过前端简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000079",
+      "ca-q-002697",
+      "ca-q-003254"
+    ],
+    "tags": [
+      "前端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-082",
+    "title": "后端简历案例82",
+    "description": "通过后端简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002877",
+      "ca-q-001381",
+      "ca-q-003318"
+    ],
+    "tags": [
+      "后端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-083",
+    "title": "Java简历案例83",
+    "description": "通过Java简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000268",
+      "ca-q-002578",
+      "ca-q-000645"
+    ],
+    "tags": [
+      "Java简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-084",
+    "title": "Go简历案例84",
+    "description": "通过Go简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002405",
+      "ca-q-001677",
+      "ca-q-001953"
+    ],
+    "tags": [
+      "Go简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-085",
+    "title": "Python简历案例85",
+    "description": "通过Python简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001604",
+      "ca-q-002237",
+      "ca-q-003448"
+    ],
+    "tags": [
+      "Python简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-086",
+    "title": "数据分析简历案例86",
+    "description": "通过数据分析简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002945",
+      "ca-q-000563",
+      "ca-q-001880"
+    ],
+    "tags": [
+      "数据分析简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-087",
+    "title": "AI产品简历案例87",
+    "description": "通过AI产品简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002024",
+      "ca-q-001603",
+      "ca-q-000784"
+    ],
+    "tags": [
+      "AI产品简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-088",
+    "title": "测试简历案例88",
+    "description": "通过测试简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001257",
+      "ca-q-000749",
+      "ca-q-000649"
+    ],
+    "tags": [
+      "测试简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-089",
+    "title": "运维简历案例89",
+    "description": "通过运维简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002375",
+      "ca-q-001208",
+      "ca-q-001669"
+    ],
+    "tags": [
+      "运维简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-090",
+    "title": "嵌入式简历案例90",
+    "description": "通过嵌入式简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002972",
+      "ca-q-003279",
+      "ca-q-001208"
+    ],
+    "tags": [
+      "嵌入式简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-091",
+    "title": "项目包装案例91",
+    "description": "通过项目包装掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000305",
+      "ca-q-002840",
+      "ca-q-003250"
+    ],
+    "tags": [
+      "项目包装"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-092",
+    "title": "项目追问案例92",
+    "description": "通过项目追问掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000968",
+      "ca-q-002600",
+      "ca-q-000242"
+    ],
+    "tags": [
+      "项目追问"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-093",
+    "title": "自我介绍案例93",
+    "description": "通过自我介绍掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000449",
+      "ca-q-002749",
+      "ca-q-001825"
+    ],
+    "tags": [
+      "自我介绍"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-094",
+    "title": "HR面试案例94",
+    "description": "通过HR面试掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000593",
+      "ca-q-002808",
+      "ca-q-000146"
+    ],
+    "tags": [
+      "HR面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-095",
+    "title": "算法面试复盘案例95",
+    "description": "通过算法面试复盘掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000318",
+      "ca-q-003022",
+      "ca-q-001500"
+    ],
+    "tags": [
+      "算法面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-096",
+    "title": "系统设计面试案例96",
+    "description": "通过系统设计面试掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000373",
+      "ca-q-000059",
+      "ca-q-002971"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-097",
+    "title": "实习投递案例97",
+    "description": "通过实习投递掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000575",
+      "ca-q-003209",
+      "ca-q-001809"
+    ],
+    "tags": [
+      "实习投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-098",
+    "title": "校招投递案例98",
+    "description": "通过校招投递掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002453",
+      "ca-q-002495",
+      "ca-q-001497"
+    ],
+    "tags": [
+      "校招投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-099",
+    "title": "Offer比较案例99",
+    "description": "通过Offer比较掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002403",
+      "ca-q-002090",
+      "ca-q-000675"
+    ],
+    "tags": [
+      "Offer比较"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-100",
+    "title": "谈薪沟通案例100",
+    "description": "通过谈薪沟通掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002213",
+      "ca-q-002842",
+      "ca-q-003028"
+    ],
+    "tags": [
+      "谈薪沟通"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-101",
+    "title": "前端简历案例101",
+    "description": "通过前端简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002536",
+      "ca-q-002958",
+      "ca-q-002608"
+    ],
+    "tags": [
+      "前端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-102",
+    "title": "后端简历案例102",
+    "description": "通过后端简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002893",
+      "ca-q-002669",
+      "ca-q-002035"
+    ],
+    "tags": [
+      "后端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-103",
+    "title": "Java简历案例103",
+    "description": "通过Java简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000283",
+      "ca-q-000173",
+      "ca-q-001365"
+    ],
+    "tags": [
+      "Java简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-104",
+    "title": "Go简历案例104",
+    "description": "通过Go简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002516",
+      "ca-q-001341",
+      "ca-q-002689"
+    ],
+    "tags": [
+      "Go简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-105",
+    "title": "Python简历案例105",
+    "description": "通过Python简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001211",
+      "ca-q-000915",
+      "ca-q-000429"
+    ],
+    "tags": [
+      "Python简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-106",
+    "title": "数据分析简历案例106",
+    "description": "通过数据分析简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001635",
+      "ca-q-002319",
+      "ca-q-001306"
+    ],
+    "tags": [
+      "数据分析简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-107",
+    "title": "AI产品简历案例107",
+    "description": "通过AI产品简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003268",
+      "ca-q-001464",
+      "ca-q-002782"
+    ],
+    "tags": [
+      "AI产品简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-108",
+    "title": "测试简历案例108",
+    "description": "通过测试简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001184",
+      "ca-q-002908",
+      "ca-q-002835"
+    ],
+    "tags": [
+      "测试简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-109",
+    "title": "运维简历案例109",
+    "description": "通过运维简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003127",
+      "ca-q-001415",
+      "ca-q-000884"
+    ],
+    "tags": [
+      "运维简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-110",
+    "title": "嵌入式简历案例110",
+    "description": "通过嵌入式简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000059",
+      "ca-q-003399",
+      "ca-q-002136"
+    ],
+    "tags": [
+      "嵌入式简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-111",
+    "title": "项目包装案例111",
+    "description": "通过项目包装掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002904",
+      "ca-q-001623",
+      "ca-q-001941"
+    ],
+    "tags": [
+      "项目包装"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-112",
+    "title": "项目追问案例112",
+    "description": "通过项目追问掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002311",
+      "ca-q-002187",
+      "ca-q-001827"
+    ],
+    "tags": [
+      "项目追问"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-113",
+    "title": "自我介绍案例113",
+    "description": "通过自我介绍掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001530",
+      "ca-q-003415",
+      "ca-q-001072"
+    ],
+    "tags": [
+      "自我介绍"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-114",
+    "title": "HR面试案例114",
+    "description": "通过HR面试掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000622",
+      "ca-q-000083",
+      "ca-q-003071"
+    ],
+    "tags": [
+      "HR面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-115",
+    "title": "算法面试复盘案例115",
+    "description": "通过算法面试复盘掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000996",
+      "ca-q-001057",
+      "ca-q-001421"
+    ],
+    "tags": [
+      "算法面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-116",
+    "title": "系统设计面试案例116",
+    "description": "通过系统设计面试掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002903",
+      "ca-q-003128",
+      "ca-q-000253"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-117",
+    "title": "实习投递案例117",
+    "description": "通过实习投递掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000842",
+      "ca-q-002858",
+      "ca-q-002381"
+    ],
+    "tags": [
+      "实习投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-118",
+    "title": "校招投递案例118",
+    "description": "通过校招投递掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001966",
+      "ca-q-001756",
+      "ca-q-000883"
+    ],
+    "tags": [
+      "校招投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-119",
+    "title": "Offer比较案例119",
+    "description": "通过Offer比较掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000709",
+      "ca-q-003198",
+      "ca-q-002487"
+    ],
+    "tags": [
+      "Offer比较"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-120",
+    "title": "谈薪沟通案例120",
+    "description": "通过谈薪沟通掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000048",
+      "ca-q-001527",
+      "ca-q-001191"
+    ],
+    "tags": [
+      "谈薪沟通"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-121",
+    "title": "前端简历案例121",
+    "description": "通过前端简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000894",
+      "ca-q-002846",
+      "ca-q-000122"
+    ],
+    "tags": [
+      "前端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-122",
+    "title": "后端简历案例122",
+    "description": "通过后端简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001435",
+      "ca-q-002916",
+      "ca-q-000147"
+    ],
+    "tags": [
+      "后端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-123",
+    "title": "Java简历案例123",
+    "description": "通过Java简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002382",
+      "ca-q-003412",
+      "ca-q-003425"
+    ],
+    "tags": [
+      "Java简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-124",
+    "title": "Go简历案例124",
+    "description": "通过Go简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001010",
+      "ca-q-000057",
+      "ca-q-003185"
+    ],
+    "tags": [
+      "Go简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-125",
+    "title": "Python简历案例125",
+    "description": "通过Python简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003450",
+      "ca-q-002860",
+      "ca-q-003467"
+    ],
+    "tags": [
+      "Python简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-126",
+    "title": "数据分析简历案例126",
+    "description": "通过数据分析简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001387",
+      "ca-q-002653",
+      "ca-q-002027"
+    ],
+    "tags": [
+      "数据分析简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-127",
+    "title": "AI产品简历案例127",
+    "description": "通过AI产品简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002633",
+      "ca-q-001757",
+      "ca-q-000980"
+    ],
+    "tags": [
+      "AI产品简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-128",
+    "title": "测试简历案例128",
+    "description": "通过测试简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001282",
+      "ca-q-002982",
+      "ca-q-000849"
+    ],
+    "tags": [
+      "测试简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-129",
+    "title": "运维简历案例129",
+    "description": "通过运维简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001512",
+      "ca-q-000798",
+      "ca-q-001391"
+    ],
+    "tags": [
+      "运维简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-130",
+    "title": "嵌入式简历案例130",
+    "description": "通过嵌入式简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000580",
+      "ca-q-002350",
+      "ca-q-003050"
+    ],
+    "tags": [
+      "嵌入式简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-131",
+    "title": "项目包装案例131",
+    "description": "通过项目包装掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001874",
+      "ca-q-002146",
+      "ca-q-000972"
+    ],
+    "tags": [
+      "项目包装"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-132",
+    "title": "项目追问案例132",
+    "description": "通过项目追问掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000731",
+      "ca-q-001574",
+      "ca-q-001113"
+    ],
+    "tags": [
+      "项目追问"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-133",
+    "title": "自我介绍案例133",
+    "description": "通过自我介绍掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001439",
+      "ca-q-001947",
+      "ca-q-000806"
+    ],
+    "tags": [
+      "自我介绍"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-134",
+    "title": "HR面试案例134",
+    "description": "通过HR面试掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002455",
+      "ca-q-002233",
+      "ca-q-000593"
+    ],
+    "tags": [
+      "HR面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-135",
+    "title": "算法面试复盘案例135",
+    "description": "通过算法面试复盘掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001579",
+      "ca-q-002114",
+      "ca-q-000728"
+    ],
+    "tags": [
+      "算法面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-136",
+    "title": "系统设计面试案例136",
+    "description": "通过系统设计面试掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000782",
+      "ca-q-001780",
+      "ca-q-002524"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-137",
+    "title": "实习投递案例137",
+    "description": "通过实习投递掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001933",
+      "ca-q-002744",
+      "ca-q-002208"
+    ],
+    "tags": [
+      "实习投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-138",
+    "title": "校招投递案例138",
+    "description": "通过校招投递掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003240",
+      "ca-q-000977",
+      "ca-q-000087"
+    ],
+    "tags": [
+      "校招投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-139",
+    "title": "Offer比较案例139",
+    "description": "通过Offer比较掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002691",
+      "ca-q-001319",
+      "ca-q-000008"
+    ],
+    "tags": [
+      "Offer比较"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-140",
+    "title": "谈薪沟通案例140",
+    "description": "通过谈薪沟通掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000779",
+      "ca-q-000100",
+      "ca-q-001656"
+    ],
+    "tags": [
+      "谈薪沟通"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-141",
+    "title": "前端简历案例141",
+    "description": "通过前端简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003129",
+      "ca-q-000436",
+      "ca-q-003177"
+    ],
+    "tags": [
+      "前端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-142",
+    "title": "后端简历案例142",
+    "description": "通过后端简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000056",
+      "ca-q-003298",
+      "ca-q-003444"
+    ],
+    "tags": [
+      "后端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-143",
+    "title": "Java简历案例143",
+    "description": "通过Java简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000162",
+      "ca-q-000958",
+      "ca-q-002279"
+    ],
+    "tags": [
+      "Java简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-144",
+    "title": "Go简历案例144",
+    "description": "通过Go简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003100",
+      "ca-q-002381",
+      "ca-q-002340"
+    ],
+    "tags": [
+      "Go简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-145",
+    "title": "Python简历案例145",
+    "description": "通过Python简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002281",
+      "ca-q-003223",
+      "ca-q-000876"
+    ],
+    "tags": [
+      "Python简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-146",
+    "title": "数据分析简历案例146",
+    "description": "通过数据分析简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002050",
+      "ca-q-002680",
+      "ca-q-001735"
+    ],
+    "tags": [
+      "数据分析简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-147",
+    "title": "AI产品简历案例147",
+    "description": "通过AI产品简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000872",
+      "ca-q-002618",
+      "ca-q-003049"
+    ],
+    "tags": [
+      "AI产品简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-148",
+    "title": "测试简历案例148",
+    "description": "通过测试简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002877",
+      "ca-q-001660",
+      "ca-q-002081"
+    ],
+    "tags": [
+      "测试简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-149",
+    "title": "运维简历案例149",
+    "description": "通过运维简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000766",
+      "ca-q-002658",
+      "ca-q-000492"
+    ],
+    "tags": [
+      "运维简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-150",
+    "title": "嵌入式简历案例150",
+    "description": "通过嵌入式简历掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000390",
+      "ca-q-002886",
+      "ca-q-000670"
+    ],
+    "tags": [
+      "嵌入式简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-151",
+    "title": "项目包装案例151",
+    "description": "通过项目包装掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002338",
+      "ca-q-001859",
+      "ca-q-000314"
+    ],
+    "tags": [
+      "项目包装"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-152",
+    "title": "项目追问案例152",
+    "description": "通过项目追问掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003039",
+      "ca-q-000279",
+      "ca-q-002243"
+    ],
+    "tags": [
+      "项目追问"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-153",
+    "title": "自我介绍案例153",
+    "description": "通过自我介绍掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002418",
+      "ca-q-003194",
+      "ca-q-003367"
+    ],
+    "tags": [
+      "自我介绍"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-154",
+    "title": "HR面试案例154",
+    "description": "通过HR面试掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000295",
+      "ca-q-000027",
+      "ca-q-002767"
+    ],
+    "tags": [
+      "HR面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-155",
+    "title": "算法面试复盘案例155",
+    "description": "通过算法面试复盘掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000267",
+      "ca-q-002586",
+      "ca-q-003107"
+    ],
+    "tags": [
+      "算法面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-156",
+    "title": "系统设计面试案例156",
+    "description": "通过系统设计面试掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002585",
+      "ca-q-002285",
+      "ca-q-002718"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-157",
+    "title": "实习投递案例157",
+    "description": "通过实习投递掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000021",
+      "ca-q-002567",
+      "ca-q-002695"
+    ],
+    "tags": [
+      "实习投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-158",
+    "title": "校招投递案例158",
+    "description": "通过校招投递掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001548",
+      "ca-q-002031",
+      "ca-q-003399"
+    ],
+    "tags": [
+      "校招投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-159",
+    "title": "Offer比较案例159",
+    "description": "通过Offer比较掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001190",
+      "ca-q-002284",
+      "ca-q-000020"
+    ],
+    "tags": [
+      "Offer比较"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-160",
+    "title": "谈薪沟通案例160",
+    "description": "通过谈薪沟通掌握求职技能",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002430",
+      "ca-q-002283",
+      "ca-q-000511"
+    ],
+    "tags": [
+      "谈薪沟通"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-161",
+    "title": "前端简历案例161",
+    "description": "通过前端简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000507",
+      "ca-q-002387",
+      "ca-q-001089"
+    ],
+    "tags": [
+      "前端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-162",
+    "title": "后端简历案例162",
+    "description": "通过后端简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002584",
+      "ca-q-000465",
+      "ca-q-003156"
+    ],
+    "tags": [
+      "后端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-163",
+    "title": "Java简历案例163",
+    "description": "通过Java简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001996",
+      "ca-q-002230",
+      "ca-q-002366"
+    ],
+    "tags": [
+      "Java简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-164",
+    "title": "Go简历案例164",
+    "description": "通过Go简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001285",
+      "ca-q-001312",
+      "ca-q-001848"
+    ],
+    "tags": [
+      "Go简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-165",
+    "title": "Python简历案例165",
+    "description": "通过Python简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000356",
+      "ca-q-000719",
+      "ca-q-001144"
+    ],
+    "tags": [
+      "Python简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-166",
+    "title": "数据分析简历案例166",
+    "description": "通过数据分析简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001462",
+      "ca-q-002375",
+      "ca-q-001077"
+    ],
+    "tags": [
+      "数据分析简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-167",
+    "title": "AI产品简历案例167",
+    "description": "通过AI产品简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001818",
+      "ca-q-002530",
+      "ca-q-003270"
+    ],
+    "tags": [
+      "AI产品简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-168",
+    "title": "测试简历案例168",
+    "description": "通过测试简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000131",
+      "ca-q-003446",
+      "ca-q-001914"
+    ],
+    "tags": [
+      "测试简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-169",
+    "title": "运维简历案例169",
+    "description": "通过运维简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000708",
+      "ca-q-000064",
+      "ca-q-000302"
+    ],
+    "tags": [
+      "运维简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-170",
+    "title": "嵌入式简历案例170",
+    "description": "通过嵌入式简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000354",
+      "ca-q-003314",
+      "ca-q-002806"
+    ],
+    "tags": [
+      "嵌入式简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-171",
+    "title": "项目包装案例171",
+    "description": "通过项目包装掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002351",
+      "ca-q-001477",
+      "ca-q-002843"
+    ],
+    "tags": [
+      "项目包装"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-172",
+    "title": "项目追问案例172",
+    "description": "通过项目追问掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003379",
+      "ca-q-002468",
+      "ca-q-003363"
+    ],
+    "tags": [
+      "项目追问"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-173",
+    "title": "自我介绍案例173",
+    "description": "通过自我介绍掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003399",
+      "ca-q-003142",
+      "ca-q-001610"
+    ],
+    "tags": [
+      "自我介绍"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-174",
+    "title": "HR面试案例174",
+    "description": "通过HR面试掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001532",
+      "ca-q-003134",
+      "ca-q-000521"
+    ],
+    "tags": [
+      "HR面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-175",
+    "title": "算法面试复盘案例175",
+    "description": "通过算法面试复盘掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002900",
+      "ca-q-002907",
+      "ca-q-001983"
+    ],
+    "tags": [
+      "算法面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-176",
+    "title": "系统设计面试案例176",
+    "description": "通过系统设计面试掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002797",
+      "ca-q-003105",
+      "ca-q-000253"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-177",
+    "title": "实习投递案例177",
+    "description": "通过实习投递掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002997",
+      "ca-q-001379",
+      "ca-q-001579"
+    ],
+    "tags": [
+      "实习投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-178",
+    "title": "校招投递案例178",
+    "description": "通过校招投递掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002182",
+      "ca-q-000154",
+      "ca-q-000007"
+    ],
+    "tags": [
+      "校招投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-179",
+    "title": "Offer比较案例179",
+    "description": "通过Offer比较掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000869",
+      "ca-q-002597",
+      "ca-q-002311"
+    ],
+    "tags": [
+      "Offer比较"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-180",
+    "title": "谈薪沟通案例180",
+    "description": "通过谈薪沟通掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001697",
+      "ca-q-002794",
+      "ca-q-002730"
+    ],
+    "tags": [
+      "谈薪沟通"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-181",
+    "title": "前端简历案例181",
+    "description": "通过前端简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002217",
+      "ca-q-003438",
+      "ca-q-001594"
+    ],
+    "tags": [
+      "前端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-182",
+    "title": "后端简历案例182",
+    "description": "通过后端简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000583",
+      "ca-q-002601",
+      "ca-q-003013"
+    ],
+    "tags": [
+      "后端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-183",
+    "title": "Java简历案例183",
+    "description": "通过Java简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002916",
+      "ca-q-001071",
+      "ca-q-002867"
+    ],
+    "tags": [
+      "Java简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-184",
+    "title": "Go简历案例184",
+    "description": "通过Go简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001178",
+      "ca-q-000966",
+      "ca-q-002915"
+    ],
+    "tags": [
+      "Go简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-185",
+    "title": "Python简历案例185",
+    "description": "通过Python简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003435",
+      "ca-q-002684",
+      "ca-q-001906"
+    ],
+    "tags": [
+      "Python简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-186",
+    "title": "数据分析简历案例186",
+    "description": "通过数据分析简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000779",
+      "ca-q-002372",
+      "ca-q-001281"
+    ],
+    "tags": [
+      "数据分析简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-187",
+    "title": "AI产品简历案例187",
+    "description": "通过AI产品简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001110",
+      "ca-q-002890",
+      "ca-q-001855"
+    ],
+    "tags": [
+      "AI产品简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-188",
+    "title": "测试简历案例188",
+    "description": "通过测试简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003389",
+      "ca-q-003234",
+      "ca-q-003366"
+    ],
+    "tags": [
+      "测试简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-189",
+    "title": "运维简历案例189",
+    "description": "通过运维简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001780",
+      "ca-q-003028",
+      "ca-q-002038"
+    ],
+    "tags": [
+      "运维简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-190",
+    "title": "嵌入式简历案例190",
+    "description": "通过嵌入式简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000598",
+      "ca-q-001705",
+      "ca-q-001953"
+    ],
+    "tags": [
+      "嵌入式简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-191",
+    "title": "项目包装案例191",
+    "description": "通过项目包装掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000847",
+      "ca-q-000085",
+      "ca-q-000196"
+    ],
+    "tags": [
+      "项目包装"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-192",
+    "title": "项目追问案例192",
+    "description": "通过项目追问掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000383",
+      "ca-q-001430",
+      "ca-q-002982"
+    ],
+    "tags": [
+      "项目追问"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-193",
+    "title": "自我介绍案例193",
+    "description": "通过自我介绍掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003432",
+      "ca-q-002384",
+      "ca-q-003335"
+    ],
+    "tags": [
+      "自我介绍"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-194",
+    "title": "HR面试案例194",
+    "description": "通过HR面试掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001017",
+      "ca-q-003050",
+      "ca-q-001729"
+    ],
+    "tags": [
+      "HR面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-195",
+    "title": "算法面试复盘案例195",
+    "description": "通过算法面试复盘掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000478",
+      "ca-q-001883",
+      "ca-q-001734"
+    ],
+    "tags": [
+      "算法面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-196",
+    "title": "系统设计面试案例196",
+    "description": "通过系统设计面试掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002468",
+      "ca-q-003435",
+      "ca-q-003217"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-197",
+    "title": "实习投递案例197",
+    "description": "通过实习投递掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002566",
+      "ca-q-000870",
+      "ca-q-001672"
+    ],
+    "tags": [
+      "实习投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-198",
+    "title": "校招投递案例198",
+    "description": "通过校招投递掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000307",
+      "ca-q-000181",
+      "ca-q-003098"
+    ],
+    "tags": [
+      "校招投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-199",
+    "title": "Offer比较案例199",
+    "description": "通过Offer比较掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001928",
+      "ca-q-001489",
+      "ca-q-001887"
+    ],
+    "tags": [
+      "Offer比较"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-200",
+    "title": "谈薪沟通案例200",
+    "description": "通过谈薪沟通掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000763",
+      "ca-q-001411",
+      "ca-q-001514"
+    ],
+    "tags": [
+      "谈薪沟通"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-201",
+    "title": "前端简历案例201",
+    "description": "通过前端简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000070",
+      "ca-q-000374",
+      "ca-q-000458"
+    ],
+    "tags": [
+      "前端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-202",
+    "title": "后端简历案例202",
+    "description": "通过后端简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001929",
+      "ca-q-000585",
+      "ca-q-000595"
+    ],
+    "tags": [
+      "后端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-203",
+    "title": "Java简历案例203",
+    "description": "通过Java简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002801",
+      "ca-q-002077",
+      "ca-q-000469"
+    ],
+    "tags": [
+      "Java简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-204",
+    "title": "Go简历案例204",
+    "description": "通过Go简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001315",
+      "ca-q-000095",
+      "ca-q-000586"
+    ],
+    "tags": [
+      "Go简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-205",
+    "title": "Python简历案例205",
+    "description": "通过Python简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001225",
+      "ca-q-001376",
+      "ca-q-001565"
+    ],
+    "tags": [
+      "Python简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-206",
+    "title": "数据分析简历案例206",
+    "description": "通过数据分析简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002156",
+      "ca-q-001264",
+      "ca-q-001271"
+    ],
+    "tags": [
+      "数据分析简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-207",
+    "title": "AI产品简历案例207",
+    "description": "通过AI产品简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000819",
+      "ca-q-003241",
+      "ca-q-000672"
+    ],
+    "tags": [
+      "AI产品简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-208",
+    "title": "测试简历案例208",
+    "description": "通过测试简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002346",
+      "ca-q-001252",
+      "ca-q-000557"
+    ],
+    "tags": [
+      "测试简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-209",
+    "title": "运维简历案例209",
+    "description": "通过运维简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002429",
+      "ca-q-001708",
+      "ca-q-000829"
+    ],
+    "tags": [
+      "运维简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-210",
+    "title": "嵌入式简历案例210",
+    "description": "通过嵌入式简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001655",
+      "ca-q-002179",
+      "ca-q-001319"
+    ],
+    "tags": [
+      "嵌入式简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-211",
+    "title": "项目包装案例211",
+    "description": "通过项目包装掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002840",
+      "ca-q-003398",
+      "ca-q-000658"
+    ],
+    "tags": [
+      "项目包装"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-212",
+    "title": "项目追问案例212",
+    "description": "通过项目追问掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001777",
+      "ca-q-003228",
+      "ca-q-000026"
+    ],
+    "tags": [
+      "项目追问"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-213",
+    "title": "自我介绍案例213",
+    "description": "通过自我介绍掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003099",
+      "ca-q-000067",
+      "ca-q-001250"
+    ],
+    "tags": [
+      "自我介绍"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-214",
+    "title": "HR面试案例214",
+    "description": "通过HR面试掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003211",
+      "ca-q-002581",
+      "ca-q-002954"
+    ],
+    "tags": [
+      "HR面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-215",
+    "title": "算法面试复盘案例215",
+    "description": "通过算法面试复盘掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000238",
+      "ca-q-003051",
+      "ca-q-000132"
+    ],
+    "tags": [
+      "算法面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-216",
+    "title": "系统设计面试案例216",
+    "description": "通过系统设计面试掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000389",
+      "ca-q-002487",
+      "ca-q-001574"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-217",
+    "title": "实习投递案例217",
+    "description": "通过实习投递掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000673",
+      "ca-q-000316",
+      "ca-q-002689"
+    ],
+    "tags": [
+      "实习投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-218",
+    "title": "校招投递案例218",
+    "description": "通过校招投递掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000755",
+      "ca-q-002982",
+      "ca-q-002148"
+    ],
+    "tags": [
+      "校招投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-219",
+    "title": "Offer比较案例219",
+    "description": "通过Offer比较掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001845",
+      "ca-q-001071",
+      "ca-q-001937"
+    ],
+    "tags": [
+      "Offer比较"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-220",
+    "title": "谈薪沟通案例220",
+    "description": "通过谈薪沟通掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000013",
+      "ca-q-000883",
+      "ca-q-000923"
+    ],
+    "tags": [
+      "谈薪沟通"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-221",
+    "title": "前端简历案例221",
+    "description": "通过前端简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001472",
+      "ca-q-002887",
+      "ca-q-002390"
+    ],
+    "tags": [
+      "前端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-222",
+    "title": "后端简历案例222",
+    "description": "通过后端简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000561",
+      "ca-q-001234",
+      "ca-q-001357"
+    ],
+    "tags": [
+      "后端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-223",
+    "title": "Java简历案例223",
+    "description": "通过Java简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003363",
+      "ca-q-002792",
+      "ca-q-002068"
+    ],
+    "tags": [
+      "Java简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-224",
+    "title": "Go简历案例224",
+    "description": "通过Go简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000199",
+      "ca-q-002330",
+      "ca-q-000667"
+    ],
+    "tags": [
+      "Go简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-225",
+    "title": "Python简历案例225",
+    "description": "通过Python简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001497",
+      "ca-q-000609",
+      "ca-q-002906"
+    ],
+    "tags": [
+      "Python简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-226",
+    "title": "数据分析简历案例226",
+    "description": "通过数据分析简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002097",
+      "ca-q-001594",
+      "ca-q-002746"
+    ],
+    "tags": [
+      "数据分析简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-227",
+    "title": "AI产品简历案例227",
+    "description": "通过AI产品简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001835",
+      "ca-q-001711",
+      "ca-q-001216"
+    ],
+    "tags": [
+      "AI产品简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-228",
+    "title": "测试简历案例228",
+    "description": "通过测试简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000348",
+      "ca-q-000707",
+      "ca-q-000671"
+    ],
+    "tags": [
+      "测试简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-229",
+    "title": "运维简历案例229",
+    "description": "通过运维简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000838",
+      "ca-q-003406",
+      "ca-q-001060"
+    ],
+    "tags": [
+      "运维简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-230",
+    "title": "嵌入式简历案例230",
+    "description": "通过嵌入式简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003312",
+      "ca-q-000006",
+      "ca-q-003452"
+    ],
+    "tags": [
+      "嵌入式简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-231",
+    "title": "项目包装案例231",
+    "description": "通过项目包装掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000129",
+      "ca-q-002416",
+      "ca-q-001469"
+    ],
+    "tags": [
+      "项目包装"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-232",
+    "title": "项目追问案例232",
+    "description": "通过项目追问掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000641",
+      "ca-q-000234",
+      "ca-q-000012"
+    ],
+    "tags": [
+      "项目追问"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-233",
+    "title": "自我介绍案例233",
+    "description": "通过自我介绍掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003263",
+      "ca-q-003252",
+      "ca-q-002653"
+    ],
+    "tags": [
+      "自我介绍"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-234",
+    "title": "HR面试案例234",
+    "description": "通过HR面试掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002522",
+      "ca-q-001557",
+      "ca-q-002581"
+    ],
+    "tags": [
+      "HR面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-235",
+    "title": "算法面试复盘案例235",
+    "description": "通过算法面试复盘掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000325",
+      "ca-q-000076",
+      "ca-q-003497"
+    ],
+    "tags": [
+      "算法面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-236",
+    "title": "系统设计面试案例236",
+    "description": "通过系统设计面试掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002826",
+      "ca-q-001860",
+      "ca-q-001472"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-237",
+    "title": "实习投递案例237",
+    "description": "通过实习投递掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001762",
+      "ca-q-000135",
+      "ca-q-002543"
+    ],
+    "tags": [
+      "实习投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-238",
+    "title": "校招投递案例238",
+    "description": "通过校招投递掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002374",
+      "ca-q-002452",
+      "ca-q-002093"
+    ],
+    "tags": [
+      "校招投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-239",
+    "title": "Offer比较案例239",
+    "description": "通过Offer比较掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001906",
+      "ca-q-000301",
+      "ca-q-003204"
+    ],
+    "tags": [
+      "Offer比较"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-240",
+    "title": "谈薪沟通案例240",
+    "description": "通过谈薪沟通掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000466",
+      "ca-q-000195",
+      "ca-q-003489"
+    ],
+    "tags": [
+      "谈薪沟通"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-241",
+    "title": "前端简历案例241",
+    "description": "通过前端简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002229",
+      "ca-q-001546",
+      "ca-q-002375"
+    ],
+    "tags": [
+      "前端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-242",
+    "title": "后端简历案例242",
+    "description": "通过后端简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002862",
+      "ca-q-000283",
+      "ca-q-003323"
+    ],
+    "tags": [
+      "后端简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-243",
+    "title": "Java简历案例243",
+    "description": "通过Java简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001530",
+      "ca-q-001372",
+      "ca-q-000792"
+    ],
+    "tags": [
+      "Java简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-244",
+    "title": "Go简历案例244",
+    "description": "通过Go简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001909",
+      "ca-q-002168",
+      "ca-q-000790"
+    ],
+    "tags": [
+      "Go简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-245",
+    "title": "Python简历案例245",
+    "description": "通过Python简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002556",
+      "ca-q-001095",
+      "ca-q-001250"
+    ],
+    "tags": [
+      "Python简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-246",
+    "title": "数据分析简历案例246",
+    "description": "通过数据分析简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000008",
+      "ca-q-002179",
+      "ca-q-001590"
+    ],
+    "tags": [
+      "数据分析简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-247",
+    "title": "AI产品简历案例247",
+    "description": "通过AI产品简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001683",
+      "ca-q-002417",
+      "ca-q-001385"
+    ],
+    "tags": [
+      "AI产品简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-248",
+    "title": "测试简历案例248",
+    "description": "通过测试简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002487",
+      "ca-q-001851",
+      "ca-q-002231"
+    ],
+    "tags": [
+      "测试简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-249",
+    "title": "运维简历案例249",
+    "description": "通过运维简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002420",
+      "ca-q-001750",
+      "ca-q-001985"
+    ],
+    "tags": [
+      "运维简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-250",
+    "title": "嵌入式简历案例250",
+    "description": "通过嵌入式简历掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001464",
+      "ca-q-003114",
+      "ca-q-002780"
+    ],
+    "tags": [
+      "嵌入式简历"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-251",
+    "title": "项目包装案例251",
+    "description": "通过项目包装掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001415",
+      "ca-q-001040",
+      "ca-q-002479"
+    ],
+    "tags": [
+      "项目包装"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-252",
+    "title": "项目追问案例252",
+    "description": "通过项目追问掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002959",
+      "ca-q-000159",
+      "ca-q-002751"
+    ],
+    "tags": [
+      "项目追问"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-253",
+    "title": "自我介绍案例253",
+    "description": "通过自我介绍掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002326",
+      "ca-q-001478",
+      "ca-q-001109"
+    ],
+    "tags": [
+      "自我介绍"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-254",
+    "title": "HR面试案例254",
+    "description": "通过HR面试掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002384",
+      "ca-q-001187",
+      "ca-q-000629"
+    ],
+    "tags": [
+      "HR面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-255",
+    "title": "算法面试复盘案例255",
+    "description": "通过算法面试复盘掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000949",
+      "ca-q-001194",
+      "ca-q-001447"
+    ],
+    "tags": [
+      "算法面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-256",
+    "title": "系统设计面试案例256",
+    "description": "通过系统设计面试掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000025",
+      "ca-q-001764",
+      "ca-q-000663"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-257",
+    "title": "实习投递案例257",
+    "description": "通过实习投递掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-002237",
+      "ca-q-000797",
+      "ca-q-000646"
+    ],
+    "tags": [
+      "实习投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-258",
+    "title": "校招投递案例258",
+    "description": "通过校招投递掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-000747",
+      "ca-q-001596",
+      "ca-q-002297"
+    ],
+    "tags": [
+      "校招投递"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-259",
+    "title": "Offer比较案例259",
+    "description": "通过Offer比较掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-001749",
+      "ca-q-001364",
+      "ca-q-002386"
+    ],
+    "tags": [
+      "Offer比较"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ca-case-260",
+    "title": "谈薪沟通案例260",
+    "description": "通过谈薪沟通掌握求职技能",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "执行"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ca-q-003146",
+      "ca-q-000701",
+      "ca-q-001616"
+    ],
+    "tags": [
+      "谈薪沟通"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]

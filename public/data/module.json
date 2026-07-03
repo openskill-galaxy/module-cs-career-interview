@@ -1,0 +1,41 @@
+{
+  "id": "mod-cs-career-interview",
+  "slug": "module-cs-career-interview",
+  "title": "计算机求职简历与面试",
+  "subtitle": "面向计算机求职者",
+  "description": "面向计算机相关岗位求职者的岗位认知技术简历项目包装八股复习算法面试项目面试HR面试投递策略面试复盘与Offer选择训练。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "计算机求职",
+    "技术简历",
+    "面试",
+    "校招",
+    "实习",
+    "项目包装",
+    "算法面试",
+    "HR面试"
+  ],
+  "estimatedHours": 150,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "coverEmoji": "💼",
+  "repoUrl": "https://github.com/openskill-galaxy/module-cs-career-interview",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3500,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 115
+  }
+}

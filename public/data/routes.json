@@ -1,0 +1,527 @@
+[
+  {
+    "id": "ca-route-01",
+    "slug": "Career路线1",
+    "title": "Career路线1",
+    "description": "Career路线1",
+    "targetUser": "目标1",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-02",
+    "slug": "Career路线2",
+    "title": "Career路线2",
+    "description": "Career路线2",
+    "targetUser": "目标2",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-03",
+    "slug": "Career路线3",
+    "title": "Career路线3",
+    "description": "Career路线3",
+    "targetUser": "目标3",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-04",
+    "slug": "Career路线4",
+    "title": "Career路线4",
+    "description": "Career路线4",
+    "targetUser": "目标4",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-05",
+    "slug": "Career路线5",
+    "title": "Career路线5",
+    "description": "Career路线5",
+    "targetUser": "目标5",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-06",
+    "slug": "Career路线6",
+    "title": "Career路线6",
+    "description": "Career路线6",
+    "targetUser": "目标6",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-07",
+    "slug": "Career路线7",
+    "title": "Career路线7",
+    "description": "Career路线7",
+    "targetUser": "目标7",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-08",
+    "slug": "Career路线8",
+    "title": "Career路线8",
+    "description": "Career路线8",
+    "targetUser": "目标8",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-09",
+    "slug": "Career路线9",
+    "title": "Career路线9",
+    "description": "Career路线9",
+    "targetUser": "目标9",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-10",
+    "slug": "Career路线10",
+    "title": "Career路线10",
+    "description": "Career路线10",
+    "targetUser": "目标10",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-11",
+    "slug": "Career路线11",
+    "title": "Career路线11",
+    "description": "Career路线11",
+    "targetUser": "目标11",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-12",
+    "slug": "Career路线12",
+    "title": "Career路线12",
+    "description": "Career路线12",
+    "targetUser": "目标12",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-13",
+    "slug": "Career路线13",
+    "title": "Career路线13",
+    "description": "Career路线13",
+    "targetUser": "目标13",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-14",
+    "slug": "Career路线14",
+    "title": "Career路线14",
+    "description": "Career路线14",
+    "targetUser": "目标14",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-15",
+    "slug": "Career路线15",
+    "title": "Career路线15",
+    "description": "Career路线15",
+    "targetUser": "目标15",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-16",
+    "slug": "Career路线16",
+    "title": "Career路线16",
+    "description": "Career路线16",
+    "targetUser": "目标16",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-17",
+    "slug": "Career路线17",
+    "title": "Career路线17",
+    "description": "Career路线17",
+    "targetUser": "目标17",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-18",
+    "slug": "Career路线18",
+    "title": "Career路线18",
+    "description": "Career路线18",
+    "targetUser": "目标18",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-19",
+    "slug": "Career路线19",
+    "title": "Career路线19",
+    "description": "Career路线19",
+    "targetUser": "目标19",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-20",
+    "slug": "Career路线20",
+    "title": "Career路线20",
+    "description": "Career路线20",
+    "targetUser": "目标20",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-21",
+    "slug": "Career路线21",
+    "title": "Career路线21",
+    "description": "Career路线21",
+    "targetUser": "目标21",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-22",
+    "slug": "Career路线22",
+    "title": "Career路线22",
+    "description": "Career路线22",
+    "targetUser": "目标22",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-23",
+    "slug": "Career路线23",
+    "title": "Career路线23",
+    "description": "Career路线23",
+    "targetUser": "目标23",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-24",
+    "slug": "Career路线24",
+    "title": "Career路线24",
+    "description": "Career路线24",
+    "targetUser": "目标24",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-25",
+    "slug": "Career路线25",
+    "title": "Career路线25",
+    "description": "Career路线25",
+    "targetUser": "目标25",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-26",
+    "slug": "Career路线26",
+    "title": "Career路线26",
+    "description": "Career路线26",
+    "targetUser": "目标26",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-27",
+    "slug": "Career路线27",
+    "title": "Career路线27",
+    "description": "Career路线27",
+    "targetUser": "目标27",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-28",
+    "slug": "Career路线28",
+    "title": "Career路线28",
+    "description": "Career路线28",
+    "targetUser": "目标28",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-29",
+    "slug": "Career路线29",
+    "title": "Career路线29",
+    "description": "Career路线29",
+    "targetUser": "目标29",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-30",
+    "slug": "Career路线30",
+    "title": "Career路线30",
+    "description": "Career路线30",
+    "targetUser": "目标30",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-31",
+    "slug": "Career路线31",
+    "title": "Career路线31",
+    "description": "Career路线31",
+    "targetUser": "目标31",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-32",
+    "slug": "Career路线32",
+    "title": "Career路线32",
+    "description": "Career路线32",
+    "targetUser": "目标32",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-33",
+    "slug": "Career路线33",
+    "title": "Career路线33",
+    "description": "Career路线33",
+    "targetUser": "目标33",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-34",
+    "slug": "Career路线34",
+    "title": "Career路线34",
+    "description": "Career路线34",
+    "targetUser": "目标34",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "ca-route-35",
+    "slug": "Career路线35",
+    "title": "Career路线35",
+    "description": "Career路线35",
+    "targetUser": "目标35",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  }
+]
