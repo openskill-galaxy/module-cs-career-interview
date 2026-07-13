@@ -34,7 +34,23 @@
       "能应对面试",
       "有求职作品集"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ca-lesson-001",
+      "ca-lesson-002",
+      "ca-lesson-003",
+      "ca-lesson-004",
+      "ca-lesson-005",
+      "ca-lesson-006",
+      "ca-lesson-007",
+      "ca-lesson-008",
+      "ca-lesson-009",
+      "ca-lesson-010",
+      "ca-lesson-011",
+      "ca-lesson-012",
+      "ca-lesson-013"
+    ],
+    "summary": "岗位分类、技能要求、发展路线。"
   },
   {
     "id": "ca-course-02",
@@ -71,7 +87,23 @@
       "能应对面试",
       "有求职作品集"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ca-lesson-014",
+      "ca-lesson-015",
+      "ca-lesson-016",
+      "ca-lesson-017",
+      "ca-lesson-018",
+      "ca-lesson-019",
+      "ca-lesson-020",
+      "ca-lesson-021",
+      "ca-lesson-022",
+      "ca-lesson-023",
+      "ca-lesson-024",
+      "ca-lesson-025",
+      "ca-lesson-026"
+    ],
+    "summary": "时间线、流程、投递渠道、内推。"
   },
   {
     "id": "ca-course-03",
@@ -108,7 +140,23 @@
       "能应对面试",
       "有求职作品集"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ca-lesson-027",
+      "ca-lesson-028",
+      "ca-lesson-029",
+      "ca-lesson-030",
+      "ca-lesson-031",
+      "ca-lesson-032",
+      "ca-lesson-033",
+      "ca-lesson-034",
+      "ca-lesson-035",
+      "ca-lesson-036",
+      "ca-lesson-037",
+      "ca-lesson-038",
+      "ca-lesson-039"
+    ],
+    "summary": "简历模板、项目描述、技能标签、量化结果。"
   },
   {
     "id": "ca-course-04",
@@ -145,7 +193,23 @@
       "能应对面试",
       "有求职作品集"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ca-lesson-040",
+      "ca-lesson-041",
+      "ca-lesson-042",
+      "ca-lesson-043",
+      "ca-lesson-044",
+      "ca-lesson-045",
+      "ca-lesson-046",
+      "ca-lesson-047",
+      "ca-lesson-048",
+      "ca-lesson-049",
+      "ca-lesson-050",
+      "ca-lesson-051",
+      "ca-lesson-052"
+    ],
+    "summary": "STAR法则、项目亮点、技术难点、成果量化。"
   },
   {
     "id": "ca-course-05",
@@ -182,7 +246,23 @@
       "能应对面试",
       "有求职作品集"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ca-lesson-053",
+      "ca-lesson-054",
+      "ca-lesson-055",
+      "ca-lesson-056",
+      "ca-lesson-057",
+      "ca-lesson-058",
+      "ca-lesson-059",
+      "ca-lesson-060",
+      "ca-lesson-061",
+      "ca-lesson-062",
+      "ca-lesson-063",
+      "ca-lesson-064",
+      "ca-lesson-065"
+    ],
+    "summary": "OS/网络/数据库/数据结构重点复习。"
   },
   {
     "id": "ca-course-06",
@@ -219,7 +299,23 @@
       "能应对面试",
       "有求职作品集"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ca-lesson-066",
+      "ca-lesson-067",
+      "ca-lesson-068",
+      "ca-lesson-069",
+      "ca-lesson-070",
+      "ca-lesson-071",
+      "ca-lesson-072",
+      "ca-lesson-073",
+      "ca-lesson-074",
+      "ca-lesson-075",
+      "ca-lesson-076",
+      "ca-lesson-077",
+      "ca-lesson-078"
+    ],
+    "summary": "Java/Go/Python/前端技术栈高频题。"
   },
   {
     "id": "ca-course-07",
@@ -256,7 +352,23 @@
       "能应对面试",
       "有求职作品集"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ca-lesson-079",
+      "ca-lesson-080",
+      "ca-lesson-081",
+      "ca-lesson-082",
+      "ca-lesson-083",
+      "ca-lesson-084",
+      "ca-lesson-085",
+      "ca-lesson-086",
+      "ca-lesson-087",
+      "ca-lesson-088",
+      "ca-lesson-089",
+      "ca-lesson-090",
+      "ca-lesson-091"
+    ],
+    "summary": "刷题策略、常见题型、模板、时间空间优化。"
   },
   {
     "id": "ca-course-08",
@@ -293,7 +405,23 @@
       "能应对面试",
       "有求职作品集"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ca-lesson-092",
+      "ca-lesson-093",
+      "ca-lesson-094",
+      "ca-lesson-095",
+      "ca-lesson-096",
+      "ca-lesson-097",
+      "ca-lesson-098",
+      "ca-lesson-099",
+      "ca-lesson-100",
+      "ca-lesson-101",
+      "ca-lesson-102",
+      "ca-lesson-103",
+      "ca-lesson-104"
+    ],
+    "summary": "项目深挖、系统设计追问、难点复盘。"
   },
   {
     "id": "ca-course-09",
@@ -330,7 +458,23 @@
       "能应对面试",
       "有求职作品集"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ca-lesson-105",
+      "ca-lesson-106",
+      "ca-lesson-107",
+      "ca-lesson-108",
+      "ca-lesson-109",
+      "ca-lesson-110",
+      "ca-lesson-111",
+      "ca-lesson-112",
+      "ca-lesson-113",
+      "ca-lesson-114",
+      "ca-lesson-115",
+      "ca-lesson-116",
+      "ca-lesson-117"
+    ],
+    "summary": "自我介绍、职业规划、离职原因、优缺点、薪资。"
   },
   {
     "id": "ca-course-10",
@@ -367,7 +511,23 @@
       "能应对面试",
       "有求职作品集"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ca-lesson-118",
+      "ca-lesson-119",
+      "ca-lesson-120",
+      "ca-lesson-121",
+      "ca-lesson-122",
+      "ca-lesson-123",
+      "ca-lesson-124",
+      "ca-lesson-125",
+      "ca-lesson-126",
+      "ca-lesson-127",
+      "ca-lesson-128",
+      "ca-lesson-129",
+      "ca-lesson-130"
+    ],
+    "summary": "笔试题型、心理测评、群面角色。"
   },
   {
     "id": "ca-course-11",
@@ -404,7 +564,23 @@
       "能应对面试",
       "有求职作品集"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ca-lesson-131",
+      "ca-lesson-132",
+      "ca-lesson-133",
+      "ca-lesson-134",
+      "ca-lesson-135",
+      "ca-lesson-136",
+      "ca-lesson-137",
+      "ca-lesson-138",
+      "ca-lesson-139",
+      "ca-lesson-140",
+      "ca-lesson-141",
+      "ca-lesson-142",
+      "ca-lesson-143"
+    ],
+    "summary": "目标公司、投递节奏、内推渠道、招聘信息。"
   },
   {
     "id": "ca-course-12",
@@ -441,7 +617,23 @@
       "能应对面试",
       "有求职作品集"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ca-lesson-144",
+      "ca-lesson-145",
+      "ca-lesson-146",
+      "ca-lesson-147",
+      "ca-lesson-148",
+      "ca-lesson-149",
+      "ca-lesson-150",
+      "ca-lesson-151",
+      "ca-lesson-152",
+      "ca-lesson-153",
+      "ca-lesson-154",
+      "ca-lesson-155",
+      "ca-lesson-156"
+    ],
+    "summary": "复盘方法、Offer维度、谈薪策略、签约注意事项。"
   },
   {
     "id": "ca-course-13",
@@ -478,7 +670,23 @@
       "能应对面试",
       "有求职作品集"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ca-lesson-157",
+      "ca-lesson-158",
+      "ca-lesson-159",
+      "ca-lesson-160",
+      "ca-lesson-161",
+      "ca-lesson-162",
+      "ca-lesson-163",
+      "ca-lesson-164",
+      "ca-lesson-165",
+      "ca-lesson-166",
+      "ca-lesson-167",
+      "ca-lesson-168",
+      "ca-lesson-169"
+    ],
+    "summary": "前后端/数据/AI/测试/运维/嵌入式案例。"
   },
   {
     "id": "ca-course-14",
@@ -515,6 +723,22 @@
       "能应对面试",
       "有求职作品集"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ca-lesson-170",
+      "ca-lesson-171",
+      "ca-lesson-172",
+      "ca-lesson-173",
+      "ca-lesson-174",
+      "ca-lesson-175",
+      "ca-lesson-176",
+      "ca-lesson-177",
+      "ca-lesson-178",
+      "ca-lesson-179",
+      "ca-lesson-180",
+      "ca-lesson-181",
+      "ca-lesson-182"
+    ],
+    "summary": "作品集整理、模拟面试、综合训练。"
   }
 ]
