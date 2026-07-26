@@ -5,11 +5,7 @@
     "description": "通过前端简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-001129",
-      "ca-q-002610",
-      "ca-q-002105"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端简历"
     ],
@@ -29,11 +25,7 @@
     "description": "通过后端简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-001431",
-      "ca-q-001191",
-      "ca-q-002813"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "后端简历"
     ],
@@ -53,11 +45,7 @@
     "description": "通过Java简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000821",
-      "ca-q-002525",
-      "ca-q-000748"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java简历"
     ],
@@ -77,11 +65,7 @@
     "description": "通过Go简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000564",
-      "ca-q-001611",
-      "ca-q-000410"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go简历"
     ],
@@ -101,11 +85,7 @@
     "description": "通过Python简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000216",
-      "ca-q-003127",
-      "ca-q-000086"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python简历"
     ],
@@ -125,11 +105,7 @@
     "description": "通过数据分析简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000541",
-      "ca-q-002302",
-      "ca-q-001298"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据分析简历"
     ],
@@ -149,11 +125,7 @@
     "description": "通过AI产品简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000492",
-      "ca-q-000614",
-      "ca-q-000959"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品简历"
     ],
@@ -173,11 +145,7 @@
     "description": "通过测试简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000818",
-      "ca-q-000894",
-      "ca-q-002582"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试简历"
     ],
@@ -197,11 +165,7 @@
     "description": "通过运维简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-001392",
-      "ca-q-001006",
-      "ca-q-000224"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "运维简历"
     ],
@@ -221,11 +185,7 @@
     "description": "通过嵌入式简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-001475",
-      "ca-q-002256",
-      "ca-q-002187"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "嵌入式简历"
     ],
@@ -245,11 +205,7 @@
     "description": "通过项目包装掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-001843",
-      "ca-q-001018",
-      "ca-q-002974"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目包装"
     ],
@@ -269,11 +225,7 @@
     "description": "通过项目追问掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-001639",
-      "ca-q-002463",
-      "ca-q-001375"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目追问"
     ],
@@ -293,11 +245,7 @@
     "description": "通过自我介绍掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000601",
-      "ca-q-000440",
-      "ca-q-002592"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自我介绍"
     ],
@@ -317,11 +265,7 @@
     "description": "通过HR面试掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000893",
-      "ca-q-002342",
-      "ca-q-001131"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "HR面试"
     ],
@@ -341,11 +285,7 @@
     "description": "通过算法面试复盘掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-001323",
-      "ca-q-002592",
-      "ca-q-002056"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "算法面试复盘"
     ],
@@ -365,11 +305,7 @@
     "description": "通过系统设计面试掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-001838",
-      "ca-q-001496",
-      "ca-q-000304"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "系统设计面试"
     ],
@@ -389,11 +325,7 @@
     "description": "通过实习投递掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-001175",
-      "ca-q-000827",
-      "ca-q-003073"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "实习投递"
     ],
@@ -413,11 +345,7 @@
     "description": "通过校招投递掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000576",
-      "ca-q-001356",
-      "ca-q-002973"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "校招投递"
     ],
@@ -437,11 +365,7 @@
     "description": "通过Offer比较掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002268",
-      "ca-q-001563",
-      "ca-q-001108"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Offer比较"
     ],
@@ -461,11 +385,7 @@
     "description": "通过谈薪沟通掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-003144",
-      "ca-q-000835",
-      "ca-q-002660"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谈薪沟通"
     ],
@@ -485,11 +405,7 @@
     "description": "通过前端简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000579",
-      "ca-q-000541",
-      "ca-q-003022"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端简历"
     ],
@@ -509,11 +425,7 @@
     "description": "通过后端简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000334",
-      "ca-q-001402",
-      "ca-q-001621"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "后端简历"
     ],
@@ -533,11 +445,7 @@
     "description": "通过Java简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002013",
-      "ca-q-002961",
-      "ca-q-001712"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java简历"
     ],
@@ -557,11 +465,7 @@
     "description": "通过Go简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-001755",
-      "ca-q-000894",
-      "ca-q-000016"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go简历"
     ],
@@ -581,11 +485,7 @@
     "description": "通过Python简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-003281",
-      "ca-q-000471",
-      "ca-q-001475"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python简历"
     ],
@@ -605,11 +505,7 @@
     "description": "通过数据分析简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-003159",
-      "ca-q-002667",
-      "ca-q-000795"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据分析简历"
     ],
@@ -629,11 +525,7 @@
     "description": "通过AI产品简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002815",
-      "ca-q-001671",
-      "ca-q-003226"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品简历"
     ],
@@ -653,11 +545,7 @@
     "description": "通过测试简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002325",
-      "ca-q-002136",
-      "ca-q-001086"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试简历"
     ],
@@ -677,11 +565,7 @@
     "description": "通过运维简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-001665",
-      "ca-q-000716",
-      "ca-q-001115"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "运维简历"
     ],
@@ -701,11 +585,7 @@
     "description": "通过嵌入式简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000455",
-      "ca-q-002242",
-      "ca-q-001210"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "嵌入式简历"
     ],
@@ -725,11 +605,7 @@
     "description": "通过项目包装掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-001761",
-      "ca-q-001898",
-      "ca-q-000821"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目包装"
     ],
@@ -749,11 +625,7 @@
     "description": "通过项目追问掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002510",
-      "ca-q-003153",
-      "ca-q-000194"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目追问"
     ],
@@ -773,11 +645,7 @@
     "description": "通过自我介绍掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002732",
-      "ca-q-002281",
-      "ca-q-002180"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自我介绍"
     ],
@@ -797,11 +665,7 @@
     "description": "通过HR面试掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002080",
-      "ca-q-000114",
-      "ca-q-002142"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "HR面试"
     ],
@@ -821,11 +685,7 @@
     "description": "通过算法面试复盘掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000771",
-      "ca-q-001307",
-      "ca-q-002721"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "算法面试复盘"
     ],
@@ -845,11 +705,7 @@
     "description": "通过系统设计面试掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002699",
-      "ca-q-002270",
-      "ca-q-000050"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "系统设计面试"
     ],
@@ -869,11 +725,7 @@
     "description": "通过实习投递掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000728",
-      "ca-q-001896",
-      "ca-q-003037"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "实习投递"
     ],
@@ -893,11 +745,7 @@
     "description": "通过校招投递掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000877",
-      "ca-q-003257",
-      "ca-q-003078"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "校招投递"
     ],
@@ -917,11 +765,7 @@
     "description": "通过Offer比较掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002847",
-      "ca-q-002266",
-      "ca-q-002335"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Offer比较"
     ],
@@ -941,11 +785,7 @@
     "description": "通过谈薪沟通掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000650",
-      "ca-q-000634",
-      "ca-q-002807"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谈薪沟通"
     ],
@@ -965,11 +805,7 @@
     "description": "通过前端简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002146",
-      "ca-q-000716",
-      "ca-q-000618"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端简历"
     ],
@@ -989,11 +825,7 @@
     "description": "通过后端简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-001903",
-      "ca-q-000564",
-      "ca-q-000177"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "后端简历"
     ],
@@ -1013,11 +845,7 @@
     "description": "通过Java简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-003295",
-      "ca-q-002186",
-      "ca-q-000506"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java简历"
     ],
@@ -1037,11 +865,7 @@
     "description": "通过Go简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000021",
-      "ca-q-000686",
-      "ca-q-002909"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go简历"
     ],
@@ -1061,11 +885,7 @@
     "description": "通过Python简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002468",
-      "ca-q-002761",
-      "ca-q-003146"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python简历"
     ],
@@ -1085,11 +905,7 @@
     "description": "通过数据分析简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002098",
-      "ca-q-002900",
-      "ca-q-001315"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据分析简历"
     ],
@@ -1109,11 +925,7 @@
     "description": "通过AI产品简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-003233",
-      "ca-q-000614",
-      "ca-q-002808"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品简历"
     ],
@@ -1133,11 +945,7 @@
     "description": "通过测试简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-001249",
-      "ca-q-003475",
-      "ca-q-001843"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试简历"
     ],
@@ -1157,11 +965,7 @@
     "description": "通过运维简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-001171",
-      "ca-q-000919",
-      "ca-q-002736"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "运维简历"
     ],
@@ -1181,11 +985,7 @@
     "description": "通过嵌入式简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-003190",
-      "ca-q-001263",
-      "ca-q-002000"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "嵌入式简历"
     ],
@@ -1205,11 +1005,7 @@
     "description": "通过项目包装掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000661",
-      "ca-q-001053",
-      "ca-q-000478"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目包装"
     ],
@@ -1229,11 +1025,7 @@
     "description": "通过项目追问掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-003378",
-      "ca-q-000252",
-      "ca-q-003146"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目追问"
     ],
@@ -1253,11 +1045,7 @@
     "description": "通过自我介绍掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002130",
-      "ca-q-002510",
-      "ca-q-002780"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自我介绍"
     ],
@@ -1277,11 +1065,7 @@
     "description": "通过HR面试掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000098",
-      "ca-q-000059",
-      "ca-q-002832"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "HR面试"
     ],
@@ -1301,11 +1085,7 @@
     "description": "通过算法面试复盘掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-003316",
-      "ca-q-003135",
-      "ca-q-000005"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "算法面试复盘"
     ],
@@ -1325,11 +1105,7 @@
     "description": "通过系统设计面试掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000328",
-      "ca-q-002929",
-      "ca-q-003472"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "系统设计面试"
     ],
@@ -1349,11 +1125,7 @@
     "description": "通过实习投递掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000097",
-      "ca-q-002450",
-      "ca-q-002790"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "实习投递"
     ],
@@ -1373,11 +1145,7 @@
     "description": "通过校招投递掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002528",
-      "ca-q-002140",
-      "ca-q-002206"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "校招投递"
     ],
@@ -1397,11 +1165,7 @@
     "description": "通过Offer比较掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002831",
-      "ca-q-002209",
-      "ca-q-003495"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Offer比较"
     ],
@@ -1421,11 +1185,7 @@
     "description": "通过谈薪沟通掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002306",
-      "ca-q-001257",
-      "ca-q-000352"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谈薪沟通"
     ],
@@ -1445,11 +1205,7 @@
     "description": "通过前端简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000626",
-      "ca-q-001478",
-      "ca-q-002354"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端简历"
     ],
@@ -1469,11 +1225,7 @@
     "description": "通过后端简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000026",
-      "ca-q-002861",
-      "ca-q-002437"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "后端简历"
     ],
@@ -1493,11 +1245,7 @@
     "description": "通过Java简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-003173",
-      "ca-q-002414",
-      "ca-q-000969"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java简历"
     ],
@@ -1517,11 +1265,7 @@
     "description": "通过Go简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-001922",
-      "ca-q-000218",
-      "ca-q-000249"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go简历"
     ],
@@ -1541,11 +1285,7 @@
     "description": "通过Python简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000099",
-      "ca-q-001989",
-      "ca-q-003327"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python简历"
     ],
@@ -1565,11 +1305,7 @@
     "description": "通过数据分析简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000689",
-      "ca-q-002142",
-      "ca-q-000115"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据分析简历"
     ],
@@ -1589,11 +1325,7 @@
     "description": "通过AI产品简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000407",
-      "ca-q-002376",
-      "ca-q-002242"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品简历"
     ],
@@ -1613,11 +1345,7 @@
     "description": "通过测试简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002301",
-      "ca-q-000507",
-      "ca-q-000448"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试简历"
     ],
@@ -1637,11 +1365,7 @@
     "description": "通过运维简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-001427",
-      "ca-q-002263",
-      "ca-q-001298"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "运维简历"
     ],
@@ -1661,11 +1385,7 @@
     "description": "通过嵌入式简历掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-001736",
-      "ca-q-002076",
-      "ca-q-001855"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "嵌入式简历"
     ],
@@ -1685,11 +1405,7 @@
     "description": "通过项目包装掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-000311",
-      "ca-q-000887",
-      "ca-q-002463"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目包装"
     ],
@@ -1709,11 +1425,7 @@
     "description": "通过项目追问掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-003175",
-      "ca-q-002881",
-      "ca-q-003457"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目追问"
     ],
@@ -1733,11 +1445,7 @@
     "description": "通过自我介绍掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002597",
-      "ca-q-002997",
-      "ca-q-002181"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自我介绍"
     ],
@@ -1757,11 +1465,7 @@
     "description": "通过HR面试掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002401",
-      "ca-q-002645",
-      "ca-q-001332"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "HR面试"
     ],
@@ -1781,11 +1485,7 @@
     "description": "通过算法面试复盘掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002755",
-      "ca-q-001133",
-      "ca-q-001962"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "算法面试复盘"
     ],
@@ -1805,11 +1505,7 @@
     "description": "通过系统设计面试掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002904",
-      "ca-q-000209",
-      "ca-q-000638"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "系统设计面试"
     ],
@@ -1829,11 +1525,7 @@
     "description": "通过实习投递掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-001118",
-      "ca-q-000480",
-      "ca-q-001393"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "实习投递"
     ],
@@ -1853,11 +1545,7 @@
     "description": "通过校招投递掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-003038",
-      "ca-q-001242",
-      "ca-q-001457"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "校招投递"
     ],
@@ -1877,11 +1565,7 @@
     "description": "通过Offer比较掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-002745",
-      "ca-q-002622",
-      "ca-q-002297"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Offer比较"
     ],
@@ -1901,11 +1585,7 @@
     "description": "通过谈薪沟通掌握求职技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ca-q-001355",
-      "ca-q-002047",
-      "ca-q-002620"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谈薪沟通"
     ],
@@ -1925,11 +1605,7 @@
     "description": "通过前端简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000079",
-      "ca-q-002697",
-      "ca-q-003254"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端简历"
     ],
@@ -1949,11 +1625,7 @@
     "description": "通过后端简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002877",
-      "ca-q-001381",
-      "ca-q-003318"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "后端简历"
     ],
@@ -1973,11 +1645,7 @@
     "description": "通过Java简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000268",
-      "ca-q-002578",
-      "ca-q-000645"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java简历"
     ],
@@ -1997,11 +1665,7 @@
     "description": "通过Go简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002405",
-      "ca-q-001677",
-      "ca-q-001953"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go简历"
     ],
@@ -2021,11 +1685,7 @@
     "description": "通过Python简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-001604",
-      "ca-q-002237",
-      "ca-q-003448"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python简历"
     ],
@@ -2045,11 +1705,7 @@
     "description": "通过数据分析简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002945",
-      "ca-q-000563",
-      "ca-q-001880"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据分析简历"
     ],
@@ -2069,11 +1725,7 @@
     "description": "通过AI产品简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002024",
-      "ca-q-001603",
-      "ca-q-000784"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品简历"
     ],
@@ -2093,11 +1745,7 @@
     "description": "通过测试简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-001257",
-      "ca-q-000749",
-      "ca-q-000649"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试简历"
     ],
@@ -2117,11 +1765,7 @@
     "description": "通过运维简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002375",
-      "ca-q-001208",
-      "ca-q-001669"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "运维简历"
     ],
@@ -2141,11 +1785,7 @@
     "description": "通过嵌入式简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002972",
-      "ca-q-003279",
-      "ca-q-001208"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "嵌入式简历"
     ],
@@ -2165,11 +1805,7 @@
     "description": "通过项目包装掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000305",
-      "ca-q-002840",
-      "ca-q-003250"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目包装"
     ],
@@ -2189,11 +1825,7 @@
     "description": "通过项目追问掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000968",
-      "ca-q-002600",
-      "ca-q-000242"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目追问"
     ],
@@ -2213,11 +1845,7 @@
     "description": "通过自我介绍掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000449",
-      "ca-q-002749",
-      "ca-q-001825"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自我介绍"
     ],
@@ -2237,11 +1865,7 @@
     "description": "通过HR面试掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000593",
-      "ca-q-002808",
-      "ca-q-000146"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "HR面试"
     ],
@@ -2261,11 +1885,7 @@
     "description": "通过算法面试复盘掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000318",
-      "ca-q-003022",
-      "ca-q-001500"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "算法面试复盘"
     ],
@@ -2285,11 +1905,7 @@
     "description": "通过系统设计面试掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000373",
-      "ca-q-000059",
-      "ca-q-002971"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "系统设计面试"
     ],
@@ -2309,11 +1925,7 @@
     "description": "通过实习投递掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000575",
-      "ca-q-003209",
-      "ca-q-001809"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "实习投递"
     ],
@@ -2333,11 +1945,7 @@
     "description": "通过校招投递掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002453",
-      "ca-q-002495",
-      "ca-q-001497"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "校招投递"
     ],
@@ -2357,11 +1965,7 @@
     "description": "通过Offer比较掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002403",
-      "ca-q-002090",
-      "ca-q-000675"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Offer比较"
     ],
@@ -2381,11 +1985,7 @@
     "description": "通过谈薪沟通掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002213",
-      "ca-q-002842",
-      "ca-q-003028"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谈薪沟通"
     ],
@@ -2405,11 +2005,7 @@
     "description": "通过前端简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002536",
-      "ca-q-002958",
-      "ca-q-002608"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端简历"
     ],
@@ -2429,11 +2025,7 @@
     "description": "通过后端简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002893",
-      "ca-q-002669",
-      "ca-q-002035"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "后端简历"
     ],
@@ -2453,11 +2045,7 @@
     "description": "通过Java简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000283",
-      "ca-q-000173",
-      "ca-q-001365"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java简历"
     ],
@@ -2477,11 +2065,7 @@
     "description": "通过Go简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002516",
-      "ca-q-001341",
-      "ca-q-002689"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go简历"
     ],
@@ -2501,11 +2085,7 @@
     "description": "通过Python简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-001211",
-      "ca-q-000915",
-      "ca-q-000429"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python简历"
     ],
@@ -2525,11 +2105,7 @@
     "description": "通过数据分析简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-001635",
-      "ca-q-002319",
-      "ca-q-001306"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据分析简历"
     ],
@@ -2549,11 +2125,7 @@
     "description": "通过AI产品简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-003268",
-      "ca-q-001464",
-      "ca-q-002782"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品简历"
     ],
@@ -2573,11 +2145,7 @@
     "description": "通过测试简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-001184",
-      "ca-q-002908",
-      "ca-q-002835"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试简历"
     ],
@@ -2597,11 +2165,7 @@
     "description": "通过运维简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-003127",
-      "ca-q-001415",
-      "ca-q-000884"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "运维简历"
     ],
@@ -2621,11 +2185,7 @@
     "description": "通过嵌入式简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000059",
-      "ca-q-003399",
-      "ca-q-002136"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "嵌入式简历"
     ],
@@ -2645,11 +2205,7 @@
     "description": "通过项目包装掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002904",
-      "ca-q-001623",
-      "ca-q-001941"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目包装"
     ],
@@ -2669,11 +2225,7 @@
     "description": "通过项目追问掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002311",
-      "ca-q-002187",
-      "ca-q-001827"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目追问"
     ],
@@ -2693,11 +2245,7 @@
     "description": "通过自我介绍掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-001530",
-      "ca-q-003415",
-      "ca-q-001072"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自我介绍"
     ],
@@ -2717,11 +2265,7 @@
     "description": "通过HR面试掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000622",
-      "ca-q-000083",
-      "ca-q-003071"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "HR面试"
     ],
@@ -2741,11 +2285,7 @@
     "description": "通过算法面试复盘掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000996",
-      "ca-q-001057",
-      "ca-q-001421"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "算法面试复盘"
     ],
@@ -2765,11 +2305,7 @@
     "description": "通过系统设计面试掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002903",
-      "ca-q-003128",
-      "ca-q-000253"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "系统设计面试"
     ],
@@ -2789,11 +2325,7 @@
     "description": "通过实习投递掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000842",
-      "ca-q-002858",
-      "ca-q-002381"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "实习投递"
     ],
@@ -2813,11 +2345,7 @@
     "description": "通过校招投递掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-001966",
-      "ca-q-001756",
-      "ca-q-000883"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "校招投递"
     ],
@@ -2837,11 +2365,7 @@
     "description": "通过Offer比较掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000709",
-      "ca-q-003198",
-      "ca-q-002487"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Offer比较"
     ],
@@ -2861,11 +2385,7 @@
     "description": "通过谈薪沟通掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000048",
-      "ca-q-001527",
-      "ca-q-001191"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谈薪沟通"
     ],
@@ -2885,11 +2405,7 @@
     "description": "通过前端简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000894",
-      "ca-q-002846",
-      "ca-q-000122"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端简历"
     ],
@@ -2909,11 +2425,7 @@
     "description": "通过后端简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-001435",
-      "ca-q-002916",
-      "ca-q-000147"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "后端简历"
     ],
@@ -2933,11 +2445,7 @@
     "description": "通过Java简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002382",
-      "ca-q-003412",
-      "ca-q-003425"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java简历"
     ],
@@ -2957,11 +2465,7 @@
     "description": "通过Go简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-001010",
-      "ca-q-000057",
-      "ca-q-003185"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go简历"
     ],
@@ -2981,11 +2485,7 @@
     "description": "通过Python简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-003450",
-      "ca-q-002860",
-      "ca-q-003467"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python简历"
     ],
@@ -3005,11 +2505,7 @@
     "description": "通过数据分析简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-001387",
-      "ca-q-002653",
-      "ca-q-002027"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据分析简历"
     ],
@@ -3029,11 +2525,7 @@
     "description": "通过AI产品简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002633",
-      "ca-q-001757",
-      "ca-q-000980"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品简历"
     ],
@@ -3053,11 +2545,7 @@
     "description": "通过测试简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-001282",
-      "ca-q-002982",
-      "ca-q-000849"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试简历"
     ],
@@ -3077,11 +2565,7 @@
     "description": "通过运维简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-001512",
-      "ca-q-000798",
-      "ca-q-001391"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "运维简历"
     ],
@@ -3101,11 +2585,7 @@
     "description": "通过嵌入式简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000580",
-      "ca-q-002350",
-      "ca-q-003050"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "嵌入式简历"
     ],
@@ -3125,11 +2605,7 @@
     "description": "通过项目包装掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-001874",
-      "ca-q-002146",
-      "ca-q-000972"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目包装"
     ],
@@ -3149,11 +2625,7 @@
     "description": "通过项目追问掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000731",
-      "ca-q-001574",
-      "ca-q-001113"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目追问"
     ],
@@ -3173,11 +2645,7 @@
     "description": "通过自我介绍掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-001439",
-      "ca-q-001947",
-      "ca-q-000806"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自我介绍"
     ],
@@ -3197,11 +2665,7 @@
     "description": "通过HR面试掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002455",
-      "ca-q-002233",
-      "ca-q-000593"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "HR面试"
     ],
@@ -3221,11 +2685,7 @@
     "description": "通过算法面试复盘掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-001579",
-      "ca-q-002114",
-      "ca-q-000728"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "算法面试复盘"
     ],
@@ -3245,11 +2705,7 @@
     "description": "通过系统设计面试掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000782",
-      "ca-q-001780",
-      "ca-q-002524"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "系统设计面试"
     ],
@@ -3269,11 +2725,7 @@
     "description": "通过实习投递掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-001933",
-      "ca-q-002744",
-      "ca-q-002208"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "实习投递"
     ],
@@ -3293,11 +2745,7 @@
     "description": "通过校招投递掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-003240",
-      "ca-q-000977",
-      "ca-q-000087"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "校招投递"
     ],
@@ -3317,11 +2765,7 @@
     "description": "通过Offer比较掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002691",
-      "ca-q-001319",
-      "ca-q-000008"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Offer比较"
     ],
@@ -3341,11 +2785,7 @@
     "description": "通过谈薪沟通掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000779",
-      "ca-q-000100",
-      "ca-q-001656"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谈薪沟通"
     ],
@@ -3365,11 +2805,7 @@
     "description": "通过前端简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-003129",
-      "ca-q-000436",
-      "ca-q-003177"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端简历"
     ],
@@ -3389,11 +2825,7 @@
     "description": "通过后端简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000056",
-      "ca-q-003298",
-      "ca-q-003444"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "后端简历"
     ],
@@ -3413,11 +2845,7 @@
     "description": "通过Java简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000162",
-      "ca-q-000958",
-      "ca-q-002279"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java简历"
     ],
@@ -3437,11 +2865,7 @@
     "description": "通过Go简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-003100",
-      "ca-q-002381",
-      "ca-q-002340"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go简历"
     ],
@@ -3461,11 +2885,7 @@
     "description": "通过Python简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002281",
-      "ca-q-003223",
-      "ca-q-000876"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python简历"
     ],
@@ -3485,11 +2905,7 @@
     "description": "通过数据分析简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002050",
-      "ca-q-002680",
-      "ca-q-001735"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据分析简历"
     ],
@@ -3509,11 +2925,7 @@
     "description": "通过AI产品简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000872",
-      "ca-q-002618",
-      "ca-q-003049"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品简历"
     ],
@@ -3533,11 +2945,7 @@
     "description": "通过测试简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002877",
-      "ca-q-001660",
-      "ca-q-002081"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试简历"
     ],
@@ -3557,11 +2965,7 @@
     "description": "通过运维简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000766",
-      "ca-q-002658",
-      "ca-q-000492"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "运维简历"
     ],
@@ -3581,11 +2985,7 @@
     "description": "通过嵌入式简历掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000390",
-      "ca-q-002886",
-      "ca-q-000670"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "嵌入式简历"
     ],
@@ -3605,11 +3005,7 @@
     "description": "通过项目包装掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002338",
-      "ca-q-001859",
-      "ca-q-000314"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目包装"
     ],
@@ -3629,11 +3025,7 @@
     "description": "通过项目追问掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-003039",
-      "ca-q-000279",
-      "ca-q-002243"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目追问"
     ],
@@ -3653,11 +3045,7 @@
     "description": "通过自我介绍掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002418",
-      "ca-q-003194",
-      "ca-q-003367"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自我介绍"
     ],
@@ -3677,11 +3065,7 @@
     "description": "通过HR面试掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000295",
-      "ca-q-000027",
-      "ca-q-002767"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "HR面试"
     ],
@@ -3701,11 +3085,7 @@
     "description": "通过算法面试复盘掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000267",
-      "ca-q-002586",
-      "ca-q-003107"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "算法面试复盘"
     ],
@@ -3725,11 +3105,7 @@
     "description": "通过系统设计面试掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002585",
-      "ca-q-002285",
-      "ca-q-002718"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "系统设计面试"
     ],
@@ -3749,11 +3125,7 @@
     "description": "通过实习投递掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-000021",
-      "ca-q-002567",
-      "ca-q-002695"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "实习投递"
     ],
@@ -3773,11 +3145,7 @@
     "description": "通过校招投递掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-001548",
-      "ca-q-002031",
-      "ca-q-003399"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "校招投递"
     ],
@@ -3797,11 +3165,7 @@
     "description": "通过Offer比较掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-001190",
-      "ca-q-002284",
-      "ca-q-000020"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Offer比较"
     ],
@@ -3821,11 +3185,7 @@
     "description": "通过谈薪沟通掌握求职技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ca-q-002430",
-      "ca-q-002283",
-      "ca-q-000511"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谈薪沟通"
     ],
@@ -3845,11 +3205,7 @@
     "description": "通过前端简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000507",
-      "ca-q-002387",
-      "ca-q-001089"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端简历"
     ],
@@ -3869,11 +3225,7 @@
     "description": "通过后端简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002584",
-      "ca-q-000465",
-      "ca-q-003156"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "后端简历"
     ],
@@ -3893,11 +3245,7 @@
     "description": "通过Java简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001996",
-      "ca-q-002230",
-      "ca-q-002366"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java简历"
     ],
@@ -3917,11 +3265,7 @@
     "description": "通过Go简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001285",
-      "ca-q-001312",
-      "ca-q-001848"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go简历"
     ],
@@ -3941,11 +3285,7 @@
     "description": "通过Python简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000356",
-      "ca-q-000719",
-      "ca-q-001144"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python简历"
     ],
@@ -3965,11 +3305,7 @@
     "description": "通过数据分析简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001462",
-      "ca-q-002375",
-      "ca-q-001077"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据分析简历"
     ],
@@ -3989,11 +3325,7 @@
     "description": "通过AI产品简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001818",
-      "ca-q-002530",
-      "ca-q-003270"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品简历"
     ],
@@ -4013,11 +3345,7 @@
     "description": "通过测试简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000131",
-      "ca-q-003446",
-      "ca-q-001914"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试简历"
     ],
@@ -4037,11 +3365,7 @@
     "description": "通过运维简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000708",
-      "ca-q-000064",
-      "ca-q-000302"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "运维简历"
     ],
@@ -4061,11 +3385,7 @@
     "description": "通过嵌入式简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000354",
-      "ca-q-003314",
-      "ca-q-002806"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "嵌入式简历"
     ],
@@ -4085,11 +3405,7 @@
     "description": "通过项目包装掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002351",
-      "ca-q-001477",
-      "ca-q-002843"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目包装"
     ],
@@ -4109,11 +3425,7 @@
     "description": "通过项目追问掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-003379",
-      "ca-q-002468",
-      "ca-q-003363"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目追问"
     ],
@@ -4133,11 +3445,7 @@
     "description": "通过自我介绍掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-003399",
-      "ca-q-003142",
-      "ca-q-001610"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自我介绍"
     ],
@@ -4157,11 +3465,7 @@
     "description": "通过HR面试掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001532",
-      "ca-q-003134",
-      "ca-q-000521"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "HR面试"
     ],
@@ -4181,11 +3485,7 @@
     "description": "通过算法面试复盘掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002900",
-      "ca-q-002907",
-      "ca-q-001983"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "算法面试复盘"
     ],
@@ -4205,11 +3505,7 @@
     "description": "通过系统设计面试掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002797",
-      "ca-q-003105",
-      "ca-q-000253"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "系统设计面试"
     ],
@@ -4229,11 +3525,7 @@
     "description": "通过实习投递掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002997",
-      "ca-q-001379",
-      "ca-q-001579"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "实习投递"
     ],
@@ -4253,11 +3545,7 @@
     "description": "通过校招投递掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002182",
-      "ca-q-000154",
-      "ca-q-000007"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "校招投递"
     ],
@@ -4277,11 +3565,7 @@
     "description": "通过Offer比较掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000869",
-      "ca-q-002597",
-      "ca-q-002311"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Offer比较"
     ],
@@ -4301,11 +3585,7 @@
     "description": "通过谈薪沟通掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001697",
-      "ca-q-002794",
-      "ca-q-002730"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谈薪沟通"
     ],
@@ -4325,11 +3605,7 @@
     "description": "通过前端简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002217",
-      "ca-q-003438",
-      "ca-q-001594"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端简历"
     ],
@@ -4349,11 +3625,7 @@
     "description": "通过后端简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000583",
-      "ca-q-002601",
-      "ca-q-003013"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "后端简历"
     ],
@@ -4373,11 +3645,7 @@
     "description": "通过Java简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002916",
-      "ca-q-001071",
-      "ca-q-002867"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java简历"
     ],
@@ -4397,11 +3665,7 @@
     "description": "通过Go简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001178",
-      "ca-q-000966",
-      "ca-q-002915"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go简历"
     ],
@@ -4421,11 +3685,7 @@
     "description": "通过Python简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-003435",
-      "ca-q-002684",
-      "ca-q-001906"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python简历"
     ],
@@ -4445,11 +3705,7 @@
     "description": "通过数据分析简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000779",
-      "ca-q-002372",
-      "ca-q-001281"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据分析简历"
     ],
@@ -4469,11 +3725,7 @@
     "description": "通过AI产品简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001110",
-      "ca-q-002890",
-      "ca-q-001855"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品简历"
     ],
@@ -4493,11 +3745,7 @@
     "description": "通过测试简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-003389",
-      "ca-q-003234",
-      "ca-q-003366"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试简历"
     ],
@@ -4517,11 +3765,7 @@
     "description": "通过运维简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001780",
-      "ca-q-003028",
-      "ca-q-002038"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "运维简历"
     ],
@@ -4541,11 +3785,7 @@
     "description": "通过嵌入式简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000598",
-      "ca-q-001705",
-      "ca-q-001953"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "嵌入式简历"
     ],
@@ -4565,11 +3805,7 @@
     "description": "通过项目包装掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000847",
-      "ca-q-000085",
-      "ca-q-000196"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目包装"
     ],
@@ -4589,11 +3825,7 @@
     "description": "通过项目追问掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000383",
-      "ca-q-001430",
-      "ca-q-002982"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目追问"
     ],
@@ -4613,11 +3845,7 @@
     "description": "通过自我介绍掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-003432",
-      "ca-q-002384",
-      "ca-q-003335"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自我介绍"
     ],
@@ -4637,11 +3865,7 @@
     "description": "通过HR面试掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001017",
-      "ca-q-003050",
-      "ca-q-001729"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "HR面试"
     ],
@@ -4661,11 +3885,7 @@
     "description": "通过算法面试复盘掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000478",
-      "ca-q-001883",
-      "ca-q-001734"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "算法面试复盘"
     ],
@@ -4685,11 +3905,7 @@
     "description": "通过系统设计面试掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002468",
-      "ca-q-003435",
-      "ca-q-003217"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "系统设计面试"
     ],
@@ -4709,11 +3925,7 @@
     "description": "通过实习投递掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002566",
-      "ca-q-000870",
-      "ca-q-001672"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "实习投递"
     ],
@@ -4733,11 +3945,7 @@
     "description": "通过校招投递掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000307",
-      "ca-q-000181",
-      "ca-q-003098"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "校招投递"
     ],
@@ -4757,11 +3965,7 @@
     "description": "通过Offer比较掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001928",
-      "ca-q-001489",
-      "ca-q-001887"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Offer比较"
     ],
@@ -4781,11 +3985,7 @@
     "description": "通过谈薪沟通掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000763",
-      "ca-q-001411",
-      "ca-q-001514"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谈薪沟通"
     ],
@@ -4805,11 +4005,7 @@
     "description": "通过前端简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000070",
-      "ca-q-000374",
-      "ca-q-000458"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端简历"
     ],
@@ -4829,11 +4025,7 @@
     "description": "通过后端简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001929",
-      "ca-q-000585",
-      "ca-q-000595"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "后端简历"
     ],
@@ -4853,11 +4045,7 @@
     "description": "通过Java简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002801",
-      "ca-q-002077",
-      "ca-q-000469"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java简历"
     ],
@@ -4877,11 +4065,7 @@
     "description": "通过Go简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001315",
-      "ca-q-000095",
-      "ca-q-000586"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go简历"
     ],
@@ -4901,11 +4085,7 @@
     "description": "通过Python简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001225",
-      "ca-q-001376",
-      "ca-q-001565"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python简历"
     ],
@@ -4925,11 +4105,7 @@
     "description": "通过数据分析简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002156",
-      "ca-q-001264",
-      "ca-q-001271"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据分析简历"
     ],
@@ -4949,11 +4125,7 @@
     "description": "通过AI产品简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000819",
-      "ca-q-003241",
-      "ca-q-000672"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品简历"
     ],
@@ -4973,11 +4145,7 @@
     "description": "通过测试简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002346",
-      "ca-q-001252",
-      "ca-q-000557"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试简历"
     ],
@@ -4997,11 +4165,7 @@
     "description": "通过运维简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002429",
-      "ca-q-001708",
-      "ca-q-000829"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "运维简历"
     ],
@@ -5021,11 +4185,7 @@
     "description": "通过嵌入式简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001655",
-      "ca-q-002179",
-      "ca-q-001319"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "嵌入式简历"
     ],
@@ -5045,11 +4205,7 @@
     "description": "通过项目包装掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002840",
-      "ca-q-003398",
-      "ca-q-000658"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目包装"
     ],
@@ -5069,11 +4225,7 @@
     "description": "通过项目追问掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001777",
-      "ca-q-003228",
-      "ca-q-000026"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目追问"
     ],
@@ -5093,11 +4245,7 @@
     "description": "通过自我介绍掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-003099",
-      "ca-q-000067",
-      "ca-q-001250"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自我介绍"
     ],
@@ -5117,11 +4265,7 @@
     "description": "通过HR面试掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-003211",
-      "ca-q-002581",
-      "ca-q-002954"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "HR面试"
     ],
@@ -5141,11 +4285,7 @@
     "description": "通过算法面试复盘掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000238",
-      "ca-q-003051",
-      "ca-q-000132"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "算法面试复盘"
     ],
@@ -5165,11 +4305,7 @@
     "description": "通过系统设计面试掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000389",
-      "ca-q-002487",
-      "ca-q-001574"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "系统设计面试"
     ],
@@ -5189,11 +4325,7 @@
     "description": "通过实习投递掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000673",
-      "ca-q-000316",
-      "ca-q-002689"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "实习投递"
     ],
@@ -5213,11 +4345,7 @@
     "description": "通过校招投递掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000755",
-      "ca-q-002982",
-      "ca-q-002148"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "校招投递"
     ],
@@ -5237,11 +4365,7 @@
     "description": "通过Offer比较掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001845",
-      "ca-q-001071",
-      "ca-q-001937"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Offer比较"
     ],
@@ -5261,11 +4385,7 @@
     "description": "通过谈薪沟通掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000013",
-      "ca-q-000883",
-      "ca-q-000923"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谈薪沟通"
     ],
@@ -5285,11 +4405,7 @@
     "description": "通过前端简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001472",
-      "ca-q-002887",
-      "ca-q-002390"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端简历"
     ],
@@ -5309,11 +4425,7 @@
     "description": "通过后端简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000561",
-      "ca-q-001234",
-      "ca-q-001357"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "后端简历"
     ],
@@ -5333,11 +4445,7 @@
     "description": "通过Java简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-003363",
-      "ca-q-002792",
-      "ca-q-002068"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java简历"
     ],
@@ -5357,11 +4465,7 @@
     "description": "通过Go简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000199",
-      "ca-q-002330",
-      "ca-q-000667"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go简历"
     ],
@@ -5381,11 +4485,7 @@
     "description": "通过Python简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001497",
-      "ca-q-000609",
-      "ca-q-002906"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python简历"
     ],
@@ -5405,11 +4505,7 @@
     "description": "通过数据分析简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002097",
-      "ca-q-001594",
-      "ca-q-002746"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据分析简历"
     ],
@@ -5429,11 +4525,7 @@
     "description": "通过AI产品简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001835",
-      "ca-q-001711",
-      "ca-q-001216"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品简历"
     ],
@@ -5453,11 +4545,7 @@
     "description": "通过测试简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000348",
-      "ca-q-000707",
-      "ca-q-000671"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试简历"
     ],
@@ -5477,11 +4565,7 @@
     "description": "通过运维简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000838",
-      "ca-q-003406",
-      "ca-q-001060"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "运维简历"
     ],
@@ -5501,11 +4585,7 @@
     "description": "通过嵌入式简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-003312",
-      "ca-q-000006",
-      "ca-q-003452"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "嵌入式简历"
     ],
@@ -5525,11 +4605,7 @@
     "description": "通过项目包装掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000129",
-      "ca-q-002416",
-      "ca-q-001469"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目包装"
     ],
@@ -5549,11 +4625,7 @@
     "description": "通过项目追问掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000641",
-      "ca-q-000234",
-      "ca-q-000012"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目追问"
     ],
@@ -5573,11 +4645,7 @@
     "description": "通过自我介绍掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-003263",
-      "ca-q-003252",
-      "ca-q-002653"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自我介绍"
     ],
@@ -5597,11 +4665,7 @@
     "description": "通过HR面试掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002522",
-      "ca-q-001557",
-      "ca-q-002581"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "HR面试"
     ],
@@ -5621,11 +4685,7 @@
     "description": "通过算法面试复盘掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000325",
-      "ca-q-000076",
-      "ca-q-003497"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "算法面试复盘"
     ],
@@ -5645,11 +4705,7 @@
     "description": "通过系统设计面试掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002826",
-      "ca-q-001860",
-      "ca-q-001472"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "系统设计面试"
     ],
@@ -5669,11 +4725,7 @@
     "description": "通过实习投递掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001762",
-      "ca-q-000135",
-      "ca-q-002543"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "实习投递"
     ],
@@ -5693,11 +4745,7 @@
     "description": "通过校招投递掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002374",
-      "ca-q-002452",
-      "ca-q-002093"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "校招投递"
     ],
@@ -5717,11 +4765,7 @@
     "description": "通过Offer比较掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001906",
-      "ca-q-000301",
-      "ca-q-003204"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Offer比较"
     ],
@@ -5741,11 +4785,7 @@
     "description": "通过谈薪沟通掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000466",
-      "ca-q-000195",
-      "ca-q-003489"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谈薪沟通"
     ],
@@ -5765,11 +4805,7 @@
     "description": "通过前端简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002229",
-      "ca-q-001546",
-      "ca-q-002375"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "前端简历"
     ],
@@ -5789,11 +4825,7 @@
     "description": "通过后端简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002862",
-      "ca-q-000283",
-      "ca-q-003323"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "后端简历"
     ],
@@ -5813,11 +4845,7 @@
     "description": "通过Java简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001530",
-      "ca-q-001372",
-      "ca-q-000792"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Java简历"
     ],
@@ -5837,11 +4865,7 @@
     "description": "通过Go简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001909",
-      "ca-q-002168",
-      "ca-q-000790"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Go简历"
     ],
@@ -5861,11 +4885,7 @@
     "description": "通过Python简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002556",
-      "ca-q-001095",
-      "ca-q-001250"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Python简历"
     ],
@@ -5885,11 +4905,7 @@
     "description": "通过数据分析简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000008",
-      "ca-q-002179",
-      "ca-q-001590"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据分析简历"
     ],
@@ -5909,11 +4925,7 @@
     "description": "通过AI产品简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001683",
-      "ca-q-002417",
-      "ca-q-001385"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "AI产品简历"
     ],
@@ -5933,11 +4945,7 @@
     "description": "通过测试简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002487",
-      "ca-q-001851",
-      "ca-q-002231"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试简历"
     ],
@@ -5957,11 +4965,7 @@
     "description": "通过运维简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002420",
-      "ca-q-001750",
-      "ca-q-001985"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "运维简历"
     ],
@@ -5981,11 +4985,7 @@
     "description": "通过嵌入式简历掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001464",
-      "ca-q-003114",
-      "ca-q-002780"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "嵌入式简历"
     ],
@@ -6005,11 +5005,7 @@
     "description": "通过项目包装掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001415",
-      "ca-q-001040",
-      "ca-q-002479"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目包装"
     ],
@@ -6029,11 +5025,7 @@
     "description": "通过项目追问掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002959",
-      "ca-q-000159",
-      "ca-q-002751"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目追问"
     ],
@@ -6053,11 +5045,7 @@
     "description": "通过自我介绍掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002326",
-      "ca-q-001478",
-      "ca-q-001109"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自我介绍"
     ],
@@ -6077,11 +5065,7 @@
     "description": "通过HR面试掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002384",
-      "ca-q-001187",
-      "ca-q-000629"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "HR面试"
     ],
@@ -6101,11 +5085,7 @@
     "description": "通过算法面试复盘掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000949",
-      "ca-q-001194",
-      "ca-q-001447"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "算法面试复盘"
     ],
@@ -6125,11 +5105,7 @@
     "description": "通过系统设计面试掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000025",
-      "ca-q-001764",
-      "ca-q-000663"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "系统设计面试"
     ],
@@ -6149,11 +5125,7 @@
     "description": "通过实习投递掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-002237",
-      "ca-q-000797",
-      "ca-q-000646"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "实习投递"
     ],
@@ -6173,11 +5145,7 @@
     "description": "通过校招投递掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-000747",
-      "ca-q-001596",
-      "ca-q-002297"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "校招投递"
     ],
@@ -6197,11 +5165,7 @@
     "description": "通过Offer比较掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-001749",
-      "ca-q-001364",
-      "ca-q-002386"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Offer比较"
     ],
@@ -6221,11 +5185,7 @@
     "description": "通过谈薪沟通掌握求职技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ca-q-003146",
-      "ca-q-000701",
-      "ca-q-001616"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谈薪沟通"
     ],

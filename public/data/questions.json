@@ -1,218 +1,428 @@
 [
   {
     "id": "mod-cs-career-interview-q-1",
-    "slug": "question-course-1-2",
+    "slug": "question-1",
     "type": "single",
-    "stem": "在学习 [计算机求职简历与面试] 的过程里，关于“计算机求职简历与面试 环境依赖搭建与运行机制”的核心考点，以下表述最为准确的是？",
+    "stem": "一份面向校招的技术简历，通常建议控制在多长篇幅？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      {"key": "A", "text": "1 页，突出与目标岗位最相关的项目与技能"},
+      {"key": "B", "text": "3~4 页，把所有课程设计和获奖经历全部罗列"},
+      {"key": "C", "text": "5 页以上，附上完整成绩单和课程列表"},
+      {"key": "D", "text": "篇幅不重要，只要排版花哨吸引眼球即可"}
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“计算机求职简历与面试 环境依赖搭建与运行机制”的正确答案为 A。解析：在 计算机求职简历与面试 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "计算机求职简历与面试",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "answer": ["A"],
+    "explanation": "校招简历的黄金标准是一页纸。HR 和技术面试官平均每份简历的初筛时间只有几十秒，冗长的简历会稀释核心亮点。应围绕目标岗位（JD）筛选最相关的 2~3 个项目和技能，删去无关内容。B、C 罗列过多会掩盖重点；D 中过度花哨的排版反而可能影响 ATS 系统解析和阅读体验。",
+    "tags": ["技术简历"],
+    "difficulty": "easy",
+    "chapter": "mod-cs-career-interview-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-cs-career-interview-q-2",
-    "slug": "question-course-1-3",
+    "slug": "question-2",
     "type": "single",
-    "stem": "在学习 [计算机求职简历与面试] 的过程里，关于“计算机求职简历与面试 配置文件覆盖与属性解析”的核心考点，以下表述最为准确的是？",
+    "stem": "描述项目经历时广泛推荐的 STAR 法则，其四个字母分别代表什么？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      {"key": "A", "text": "Situation（情境）、Task（任务）、Action（行动）、Result（结果）"},
+      {"key": "B", "text": "Skill（技能）、Team（团队）、Achievement（成就）、Review（复盘）"},
+      {"key": "C", "text": "Start（开始）、Try（尝试）、Adjust（调整）、Release（发布）"},
+      {"key": "D", "text": "Strategy（战略）、Target（目标）、Analysis（分析）、Report（汇报）"}
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“计算机求职简历与面试 配置文件覆盖与属性解析”的正确答案为 A。解析：在 计算机求职简历与面试 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "计算机求职简历与面试",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "answer": ["A"],
+    "explanation": "STAR 法则即 Situation（当时的背景情境）、Task（你承担的任务）、Action（你采取的具体行动）、Result（可量化的结果）。它帮助候选人把项目经历讲得有逻辑、有细节、有结果，避免空泛描述。其余选项均为杜撰的展开方式。",
+    "tags": ["项目包装", "面试"],
+    "difficulty": "easy",
+    "chapter": "mod-cs-career-interview-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-cs-career-interview-q-3",
-    "slug": "question-course-2-4",
+    "slug": "question-3",
     "type": "single",
-    "stem": "在学习 [计算机求职简历与面试] 的过程里，关于“计算机求职简历与面试 API 接口规范与数据通信”的核心考点，以下表述最为准确的是？",
+    "stem": "简历中的项目成果描述，下列哪一条写法最符合“量化结果”的最佳实践？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      {"key": "A", "text": "通过引入 Redis 缓存热点数据，将接口 P99 延迟从 800ms 降至 120ms"},
+      {"key": "B", "text": "负责系统的性能优化工作，效果显著"},
+      {"key": "C", "text": "参与了后端开发，学习了很多技术"},
+      {"key": "D", "text": "使用了 Redis、Kafka、MySQL 等多种流行技术栈"}
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“计算机求职简历与面试 API 接口规范与数据通信”的正确答案为 A。解析：在 计算机求职简历与面试 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "计算机求职简历与面试",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-2",
+    "answer": ["A"],
+    "explanation": "A 同时包含了做法（引入 Redis 缓存）和可量化的收益（P99 延迟 800ms→120ms），是典型的“动作 + 数据化结果”写法。B 的“效果显著”无法验证；C 是被动参与式描述，缺乏个人贡献；D 只是技术名词堆砌，没有说明解决了什么问题。",
+    "tags": ["技术简历", "项目包装"],
+    "difficulty": "easy",
+    "chapter": "mod-cs-career-interview-c-3",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-cs-career-interview-q-4",
-    "slug": "question-course-2-5",
+    "slug": "question-4",
     "type": "single",
-    "stem": "在学习 [计算机求职简历与面试] 的过程里，关于“计算机求职简历与面试 核心控制器与数据校验机制”的核心考点，以下表述最为准确的是？",
+    "stem": "算法面试中，面试官让你在白板/共享编辑器上解题，最推荐的第一步是什么？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      {"key": "A", "text": "先与面试官确认题意、输入输出格式和边界条件，再讨论思路"},
+      {"key": "B", "text": "立即开始写代码，写得越快越能体现熟练度"},
+      {"key": "C", "text": "直接默写背过的标准题解，不做任何交流"},
+      {"key": "D", "text": "先声明这道题自己做过，要求换一道更难的题"}
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“计算机求职简历与面试 核心控制器与数据校验机制”的正确答案为 A。解析：在 计算机求职简历与面试 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "计算机求职简历与面试",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-2",
+    "answer": ["A"],
+    "explanation": "算法面试考察的不仅是解题能力，还有沟通与工程思维。正确流程是：澄清题意与约束（数据规模、边界、异常输入）→ 口述思路并分析复杂度 → 获得认可后再编码 → 主动用测试用例验证。B、C 跳过沟通环节是高频扣分点；D 做过题目主动说明是诚信加分项，但由候选人要求换更难的题并非标准做法。",
+    "tags": ["算法面试"],
+    "difficulty": "easy",
+    "chapter": "mod-cs-career-interview-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-cs-career-interview-q-5",
-    "slug": "question-course-3-6",
+    "slug": "question-5",
     "type": "single",
-    "stem": "在学习 [计算机求职简历与面试] 的过程里，关于“计算机求职简历与面试 缓存优化与垃圾回收调优”的核心考点，以下表述最为准确的是？",
+    "stem": "HR 面试中被问到“你的期望薪资是多少”，比较稳妥的回答策略是？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      {"key": "A", "text": "给出基于市场调研的合理区间，并表达对整体机会（成长、团队、薪酬包）的综合考量"},
+      {"key": "B", "text": "直接报一个远超市场水平的数字，表明自己的自信"},
+      {"key": "C", "text": "回答“多少都行，公司随便给”，显得好说话"},
+      {"key": "D", "text": "拒绝回答并反问 HR 的薪资"}
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“计算机求职简历与面试 缓存优化与垃圾回收调优”的正确答案为 A。解析：在 计算机求职简历与面试 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "计算机求职简历与面试",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-3",
+    "answer": ["A"],
+    "explanation": "谈薪前应通过招聘平台、同行交流等渠道了解该岗位在目标城市的薪资带宽，给出有依据的区间既保留谈判空间又显得专业。B 容易直接出局或被认为不了解行情；C 会削弱后续谈判筹码，可能被压价；D 会显得缺乏职业素养。",
+    "tags": ["HR面试"],
+    "difficulty": "easy",
+    "chapter": "mod-cs-career-interview-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-cs-career-interview-q-6",
-    "slug": "question-course-3-7",
+    "slug": "question-6",
     "type": "single",
-    "stem": "在学习 [计算机求职简历与面试] 的过程里，关于“计算机求职简历与面试 可观测性日志与分布式链路监控”的核心考点，以下表述最为准确的是？",
+    "stem": "关于校招“秋招”与“春招”的说法，正确的是？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      {"key": "A", "text": "秋招是应届生求职的主战场，岗位数量和质量通常多于春招；春招多为补录"},
+      {"key": "B", "text": "春招岗位一定比秋招多，应把主要精力放在春招"},
+      {"key": "C", "text": "秋招只面向研究生，本科生只能参加春招"},
+      {"key": "D", "text": "秋招和春招必须二选一，参加过秋招就不能再投春招"}
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“计算机求职简历与面试 可观测性日志与分布式链路监控”的正确答案为 A。解析：在 计算机求职简历与面试 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "计算机求职简历与面试",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-3",
+    "answer": ["A"],
+    "explanation": "国内校招节奏中，秋招（约 7~11 月，含提前批）是当届毕业生的主要招聘季，头部公司 HC 大多在秋招释放；次年春招（约 2~5 月）以补录为主，岗位相对较少、竞争更激烈。秋招对本硕均开放；秋招失利后完全可以继续参加春招，两者不冲突。",
+    "tags": ["校招", "投递策略"],
+    "difficulty": "easy",
+    "chapter": "mod-cs-career-interview-c-3",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-cs-career-interview-q-7",
+    "slug": "question-7",
+    "type": "single",
+    "stem": "八股复习中，关于 HTTP 与 HTTPS 的区别，下列说法错误的是？",
+    "options": [
+      {"key": "A", "text": "HTTPS 在传输层之上增加了 TLS/SSL 加密层"},
+      {"key": "B", "text": "HTTPS 默认端口是 443，HTTP 默认端口是 80"},
+      {"key": "C", "text": "HTTPS 只对请求头加密，请求体仍以明文传输"},
+      {"key": "D", "text": "HTTPS 通过证书机制验证服务器身份，防止中间人攻击"}
+    ],
+    "answer": ["C"],
+    "explanation": "C 错误：TLS 握手完成后，HTTP 报文的请求行、请求头和请求体会整体被对称加密传输，并非只加密请求头。A、B、D 均为正确表述，也是面试官常追问的要点（可进一步展开 TLS 握手、对称/非对称加密结合、证书链校验等）。",
+    "tags": ["八股复习", "计算机网络"],
+    "difficulty": "medium",
+    "chapter": "mod-cs-career-interview-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-cs-career-interview-q-8",
+    "slug": "question-8",
+    "type": "single",
+    "stem": "面试官问“进程和线程的区别”，以下哪个回答要点是不准确的？",
+    "options": [
+      {"key": "A", "text": "进程是资源分配的基本单位，线程是 CPU 调度的基本单位"},
+      {"key": "B", "text": "同一进程内的线程共享地址空间和打开的文件描述符"},
+      {"key": "C", "text": "线程崩溃（如段错误）通常会导致所属进程整体崩溃"},
+      {"key": "D", "text": "线程间通信必须经过内核的管道或消息队列，无法直接共享内存"}
+    ],
+    "answer": ["D"],
+    "explanation": "D 不准确：同一进程内的线程天然共享堆和全局变量，可直接通过共享内存通信（配合互斥锁等同步机制），管道、消息队列主要是进程间通信（IPC）手段。A、B、C 都是标准答案要点，其中 C 可补充：一个线程触发非法内存访问，信号默认会终止整个进程。",
+    "tags": ["八股复习", "操作系统"],
+    "difficulty": "medium",
+    "chapter": "mod-cs-career-interview-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-cs-career-interview-q-9",
+    "slug": "question-9",
+    "type": "single",
+    "stem": "在 LeetCode 风格的算法面试中，给定一个已排序数组，要求判断是否存在两数之和等于目标值，最优的时间复杂度做法是？",
+    "options": [
+      {"key": "A", "text": "双指针从两端向中间移动，时间 O(n)，空间 O(1)"},
+      {"key": "B", "text": "两层循环枚举所有数对，时间 O(n^2)"},
+      {"key": "C", "text": "先建哈希表再查找，时间 O(n)，但需要 O(n) 额外空间，是唯一可行解"},
+      {"key": "D", "text": "对每个元素做二分查找，时间 O(n^2 log n)"}
+    ],
+    "answer": ["A"],
+    "explanation": "数组已排序时，双指针法是最优解：左右指针分别指向首尾，和偏小左移动、偏大右移动，O(n) 时间、O(1) 空间。B 是暴力解；C 哈希表也能 O(n) 但浪费了有序性且需额外空间，并非“唯一可行解”；D 的复杂度写法错误，逐元素二分是 O(n log n)，仍劣于双指针的空间表现。",
+    "tags": ["算法面试", "双指针"],
+    "difficulty": "medium",
+    "chapter": "mod-cs-career-interview-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-cs-career-interview-q-10",
+    "slug": "question-10",
+    "type": "single",
+    "stem": "项目面试中，面试官针对你简历上的项目连续追问实现细节（俗称“扒项目”），最忌讳的表现是？",
+    "options": [
+      {"key": "A", "text": "对不熟悉的细节坦诚说明分工边界，并讲清自己负责部分的设计取舍"},
+      {"key": "B", "text": "对写在简历上的核心技术点一问三不知，明显是包装出来的经历"},
+      {"key": "C", "text": "结合业务背景解释技术选型原因，比如为什么用消息队列削峰"},
+      {"key": "D", "text": "主动分析项目遗留的不足以及如果重做会如何改进"}
+    ],
+    "answer": ["B"],
+    "explanation": "简历上的每一行都可能被深挖，写了却答不上来会被直接判定为造假，比不写更减分。A 是团队项目的正确应对方式；C、D 都是加分表现——能讲清技术选型的权衡（trade-off）和复盘改进，恰恰是面试官想考察的工程思维。",
+    "tags": ["项目面试", "项目包装"],
+    "difficulty": "medium",
+    "chapter": "mod-cs-career-interview-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-cs-career-interview-q-11",
+    "slug": "question-11",
+    "type": "single",
+    "stem": "关于 MySQL 索引的高频八股题，下列说法正确的是？",
+    "options": [
+      {"key": "A", "text": "InnoDB 的主键索引是聚簇索引，叶子节点直接存储整行数据"},
+      {"key": "B", "text": "对 WHERE 条件里的列加索引后，无论怎么写查询都一定会走索引"},
+      {"key": "C", "text": "联合索引 (a,b,c) 可以加速仅以 c 为条件的等值查询"},
+      {"key": "D", "text": "索引越多越好，写入性能不会受任何影响"}
+    ],
+    "answer": ["A"],
+    "explanation": "A 正确：InnoDB 主键索引即聚簇索引，叶子节点存放完整行记录，二级索引叶子存主键值需回表。B 错误，对索引列使用函数、隐式类型转换或前导模糊匹配（LIKE '%x'）都可能导致索引失效。C 违反最左前缀原则。D 错误，每个索引都要在增删改时维护 B+ 树，过多索引会拖慢写入并占用存储。",
+    "tags": ["八股复习", "MySQL"],
+    "difficulty": "medium",
+    "chapter": "mod-cs-career-interview-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-cs-career-interview-q-12",
+    "slug": "question-12",
+    "type": "single",
+    "stem": "投递策略中，“海投”与“精准投递”的权衡，下列做法最合理的是？",
+    "options": [
+      {"key": "A", "text": "对梦想公司定制简历并寻找内推，其余岗位用通用版简历适度扩大投递面"},
+      {"key": "B", "text": "只投 3 家最想去的公司，其他一概不投，破釜沉舟"},
+      {"key": "C", "text": "用同一份简历无差别投递 500 家公司，完全不看 JD"},
+      {"key": "D", "text": "等所有公司都开放投递后再统一行动，错过提前批也无所谓"}
+    ],
+    "answer": ["A"],
+    "explanation": "合理策略是分层投递：核心目标公司（Dream Offer）逐一研究 JD、定制简历、争取内推和提前批；中间层保持一定投递量对冲风险；同时用部分面试机会练手积累经验。B 风险过高；C 纯海投转化率低且容易错配岗位；D 会错过提前批和早期批次，而很多头部公司提前批不影响后续正式批投递，机会成本很大。",
+    "tags": ["投递策略", "校招"],
+    "difficulty": "medium",
+    "chapter": "mod-cs-career-interview-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-cs-career-interview-q-13",
+    "slug": "question-13",
+    "type": "single",
+    "stem": "系统设计面试中，面试官要求设计一个短链接服务（TinyURL），下列设计思路中明显有缺陷的是？",
+    "options": [
+      {"key": "A", "text": "用发号器生成自增 ID，再转为 62 进制字符串作为短码"},
+      {"key": "B", "text": "对长链接做 MD5 后取前 6 位作为短码，完全不考虑也不处理哈希冲突"},
+      {"key": "C", "text": "热点短码映射放入 Redis 缓存，降低数据库读压力"},
+      {"key": "D", "text": "读多写少场景下，通过一主多从的数据库架构分摊读流量"}
+    ],
+    "answer": ["B"],
+    "explanation": "截断哈希必然存在冲突概率，6 位短码空间约 62^6≈568 亿，随着数据量增长冲突不可忽略，必须设计冲突检测与重试（如加盐重算、布隆过滤器预判）。不处理冲突会导致不同长链接映射到同一短码的严重正确性问题。A 的发号器 + 62 进制是经典方案；C、D 是标准的读扩展手段。",
+    "tags": ["系统设计", "面试"],
+    "difficulty": "hard",
+    "chapter": "mod-cs-career-interview-c-1",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-cs-career-interview-q-14",
+    "slug": "question-14",
+    "type": "single",
+    "stem": "手里同时有多个 Offer 需要抉择时，下列决策方法最系统的是？",
+    "options": [
+      {"key": "A", "text": "列出薪酬包、成长空间、业务前景、团队氛围、城市等维度并赋权打分，结合长期职业规划综合比较"},
+      {"key": "B", "text": "只比较第一年的月薪基数，哪个高选哪个"},
+      {"key": "C", "text": "完全听从父母或朋友的意见，自己不做判断"},
+      {"key": "D", "text": "抛硬币决定，反正入职后都可以随时跳槽"}
+    ],
+    "answer": ["A"],
+    "explanation": "Offer 比较应建立多维评估模型：总包（base + 签字费 + 股票/期权 + 公积金比例）而非仅月薪、业务是否核心、导师与团队、技术成长曲线、城市生活成本与户口等，按个人优先级加权评分。B 忽略了总包结构和长期回报；C、D 放弃了对自己职业路径的主动权。频繁短期跳槽也会给履历留下稳定性疑虑。",
+    "tags": ["Offer选择"],
+    "difficulty": "medium",
+    "chapter": "mod-cs-career-interview-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-cs-career-interview-q-15",
+    "slug": "question-15",
+    "type": "multiple",
+    "stem": "以下哪些属于技术简历中应当避免的写法？（多选）",
+    "options": [
+      {"key": "A", "text": "使用“精通”描述只学过入门教程的技术"},
+      {"key": "B", "text": "项目描述只写“负责 XX 模块开发”而不写个人贡献与结果"},
+      {"key": "C", "text": "针对不同岗位 JD 调整技能与项目的展示重点"},
+      {"key": "D", "text": "在简历中留下明显的错别字和格式混乱"}
+    ],
+    "answer": ["A", "B", "D"],
+    "explanation": "A 中“精通”会招致面试官按最高标准深挖，答不上来即翻车，技能词建议用“熟悉/掌握/了解”分级。B 缺乏个人动作和量化结果，是典型的无效描述。D 反映态度问题，是低级硬伤。C 恰恰是推荐做法——简历应针对目标岗位定制，不属于应避免的写法。",
+    "tags": ["技术简历"],
+    "difficulty": "medium",
+    "chapter": "mod-cs-career-interview-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-cs-career-interview-q-16",
+    "slug": "question-16",
+    "type": "multiple",
+    "stem": "算法面试写完代码后，主动进行哪些收尾动作会成为加分项？（多选）",
+    "options": [
+      {"key": "A", "text": "用普通用例和边界用例（空输入、单元素、极值）走查一遍代码"},
+      {"key": "B", "text": "主动分析并说明时间复杂度与空间复杂度"},
+      {"key": "C", "text": "讨论可能的进一步优化方向或不同解法的权衡"},
+      {"key": "D", "text": "写完立刻说“做完了”，等面试官自己去检查"}
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "A（自测与边界走查）、B（复杂度分析）、C（多解法权衡）都体现了工程严谨性和主动沟通意识，是面试官明确期待的收尾动作。D 把验证责任推给面试官，若代码里有低级 bug 被当场指出，印象分损失更大。",
+    "tags": ["算法面试"],
+    "difficulty": "medium",
+    "chapter": "mod-cs-career-interview-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-cs-career-interview-q-17",
+    "slug": "question-17",
+    "type": "multiple",
+    "stem": "HR 面试常考察候选人的稳定性与匹配度，下列哪些问题属于 HR 面的高频问题？（多选）",
+    "options": [
+      {"key": "A", "text": "“说说你最大的优点和缺点”"},
+      {"key": "B", "text": "“你为什么选择我们公司？对我们业务了解多少？”"},
+      {"key": "C", "text": "“请现场手写一个红黑树的删除操作”"},
+      {"key": "D", "text": "“未来 3~5 年你的职业规划是什么？”"}
+    ],
+    "answer": ["A", "B", "D"],
+    "explanation": "HR 面聚焦软素质：自我认知（A）、求职动机与公司匹配度（B）、职业规划与稳定性（D），此外还常问薪资期望、离职原因、抗压经历等。C 是典型的技术面/算法面内容，不会出现在 HR 面中。回答 B 前应提前研究公司业务，体现诚意。",
+    "tags": ["HR面试"],
+    "difficulty": "easy",
+    "chapter": "mod-cs-career-interview-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-cs-career-interview-q-18",
+    "slug": "question-18",
+    "type": "multiple",
+    "stem": "面试复盘是提升面试通过率的关键环节，下列哪些属于有效的复盘做法？（多选）",
+    "options": [
+      {"key": "A", "text": "面试结束后尽快记录被问到的所有问题，标注回答不佳的部分"},
+      {"key": "B", "text": "针对答错的八股题回到知识体系中补齐整块知识，而不是只背这一题"},
+      {"key": "C", "text": "把每轮面试的题目、面评感受沉淀成个人题库，迭代自我介绍和项目讲述稿"},
+      {"key": "D", "text": "面挂后归因于“面试官刁难”，不做任何改进直接投下一家"}
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "有效复盘包括：及时记录（A，记忆会快速衰减）、体系化补漏（B，孤立背题无法应对追问）、沉淀迭代（C，自我介绍和项目讲述是可以持续打磨的“作品”）。D 是无效归因，重复同样的错误只会持续面挂。",
+    "tags": ["面试复盘"],
+    "difficulty": "hard",
+    "chapter": "mod-cs-career-interview-c-3",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-cs-career-interview-q-19",
+    "slug": "question-19",
+    "type": "judge",
+    "stem": "判断：简历中可以适度“包装”项目，但绝不能虚构不存在的经历或数据，否则背调或深挖时会带来诚信风险。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。“包装”的边界是基于事实的呈现优化：换更专业的表述、突出个人贡献、量化真实结果，这些都是合理的。而虚构项目、伪造实习经历或编造数据属于造假，技术面深挖会露馅，入职背调发现更可能被解除 Offer 甚至辞退，行业圈子内的诚信污点代价极高。",
+    "tags": ["技术简历", "项目包装"],
+    "difficulty": "easy",
+    "chapter": "mod-cs-career-interview-c-1",
+    "knowledge_points": [],
+    "estimated_time": 1
+  },
+  {
+    "id": "mod-cs-career-interview-q-20",
+    "slug": "question-20",
+    "type": "judge",
+    "stem": "判断：技术面试中遇到不会的问题，最好的策略是不懂装懂，随便编一个答案蒙混过关。",
+    "options": [],
+    "answer": ["F"],
+    "explanation": "错误。面试官对自己提出的问题通常非常熟悉，胡编乱造几乎必然被识破，且会连带怀疑你其他回答的可信度。正确做法是：坦诚说明该点不熟悉，然后尝试基于已有知识进行合理推导（“我没用过 X，但基于我对 Y 的理解，我猜测……”），展示思考过程本身也能得分。",
+    "tags": ["面试", "沟通技巧"],
+    "difficulty": "easy",
+    "chapter": "mod-cs-career-interview-c-2",
+    "knowledge_points": [],
+    "estimated_time": 1
+  },
+  {
+    "id": "mod-cs-career-interview-q-21",
+    "slug": "question-21",
+    "type": "judge",
+    "stem": "判断：TCP 三次握手是网络八股的高频考点，其中第三次握手（客户端发出的 ACK）是可以携带应用层数据的。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。前两次握手（SYN、SYN+ACK)报文不能携带应用数据，但第三次握手时客户端已进入 ESTABLISHED 状态，该 ACK 报文可以携带数据，这是面试中区分“背书”和“理解”的经典细节题。可进一步延伸：为什么是三次而不是两次（防止历史失效连接请求建立连接、确认双方收发能力）。",
+    "tags": ["八股复习", "计算机网络"],
+    "difficulty": "medium",
+    "chapter": "mod-cs-career-interview-c-3",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-cs-career-interview-q-22",
+    "slug": "question-22",
+    "type": "judge",
+    "stem": "判断：收到口头 Offer（口头承诺录用）就等于拿到了确定的工作，可以立即拒掉手上所有其他流程。",
+    "options": [],
+    "answer": ["F"],
+    "explanation": "错误。口头 Offer 不具备正式效力，审批流程仍可能因 HC 冻结、组织调整等原因变动。稳妥做法是：等拿到正式 Offer 邮件/三方协议等书面文件并确认关键条款（薪资、岗位、地点）后，再有序终止其他流程。在此之前应继续推进备选面试，避免陷入被动。",
+    "tags": ["Offer选择", "投递策略"],
+    "difficulty": "medium",
+    "chapter": "mod-cs-career-interview-c-1",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-cs-career-interview-q-23",
+    "slug": "question-23",
+    "type": "short",
+    "stem": "面试自我介绍和项目描述中，用具体数字（如性能提升百分比、用户量、QPS）来支撑成果的做法，通常称为成果的什么化？（两个字）",
+    "options": [],
+    "answer": ["量化|数据化|数字化"],
+    "explanation": "答案：量化（也可表述为数据化/数字化）。量化成果是简历与面试表达的核心技巧：“将首屏加载时间从 3s 优化到 1.2s”远比“优化了页面性能”有说服力。量化数字必须真实、可解释来源，面试官追问口径时要能自圆其说。",
+    "tags": ["技术简历", "项目包装"],
+    "difficulty": "medium",
+    "chapter": "mod-cs-career-interview-c-2",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-cs-career-interview-q-24",
+    "slug": "question-24",
+    "type": "short",
+    "stem": "通过目标公司在职员工向招聘系统直接推荐简历、通常可跳过或加速简历初筛环节的投递方式，称为什么？（两个字）",
+    "options": [],
+    "answer": ["内推|内部推荐"],
+    "explanation": "答案：内推（内部推荐）。内推的价值在于：简历直达业务部门或获得优先筛选、部分公司内推可免笔试、被推荐人挂掉某批次后有时可更快重新投递；同时内推人能提供组内业务、面试风格等一手信息。获取内推渠道包括校友、实习同事、技术社区和脉脉等平台。",
+    "tags": ["投递策略", "校招"],
+    "difficulty": "hard",
+    "chapter": "mod-cs-career-interview-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
   }
 ]

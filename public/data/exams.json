@@ -1,9 +1,9 @@
 [
   {
     "id": "mod-cs-career-interview-exam-1",
-    "slug": "final-exam",
-    "title": "计算机求职简历与面试 核心期末综合自测",
-    "summary": "全面检验您对 计算机求职简历与面试 所有阶段知识体系的掌握程度。",
+    "slug": "basic-exam",
+    "title": "计算机求职简历与面试 基础入门测验",
+    "summary": "覆盖简历写作、STAR 法则、校招节奏与面试基本礼仪的入门自测，适合刚开始准备求职的同学。",
     "difficulty": "easy",
     "questionIds": [
       "mod-cs-career-interview-q-1",
@@ -11,21 +11,54 @@
       "mod-cs-career-interview-q-3",
       "mod-cs-career-interview-q-4",
       "mod-cs-career-interview-q-5",
-      "mod-cs-career-interview-q-6"
+      "mod-cs-career-interview-q-6",
+      "mod-cs-career-interview-q-17",
+      "mod-cs-career-interview-q-19",
+      "mod-cs-career-interview-q-20"
     ],
-    "timeLimitMinutes": 60,
+    "timeLimitMinutes": 15,
     "passingScore": 60
   },
   {
     "id": "mod-cs-career-interview-exam-2",
-    "slug": "basic-exam",
-    "title": "计算机求职简历与面试 基础概念快速评估",
-    "summary": "针对核心基础概念的摸底评估，题目精炼。",
-    "difficulty": "easy",
+    "slug": "advanced-exam",
+    "title": "计算机求职简历与面试 进阶强化测验",
+    "summary": "聚焦八股高频考点、算法面试流程、项目深挖应对与投递策略的进阶训练。",
+    "difficulty": "medium",
     "questionIds": [
-      "mod-cs-career-interview-q-1",
-      "mod-cs-career-interview-q-2",
-      "mod-cs-career-interview-q-3"
+      "mod-cs-career-interview-q-7",
+      "mod-cs-career-interview-q-8",
+      "mod-cs-career-interview-q-9",
+      "mod-cs-career-interview-q-10",
+      "mod-cs-career-interview-q-11",
+      "mod-cs-career-interview-q-12",
+      "mod-cs-career-interview-q-15",
+      "mod-cs-career-interview-q-16",
+      "mod-cs-career-interview-q-21",
+      "mod-cs-career-interview-q-23"
+    ],
+    "timeLimitMinutes": 25,
+    "passingScore": 60
+  },
+  {
+    "id": "mod-cs-career-interview-exam-3",
+    "slug": "final-exam",
+    "title": "计算机求职简历与面试 综合模拟考试",
+    "summary": "从简历包装到系统设计、Offer 抉择的全流程综合模拟，检验整体求职准备水平。",
+    "difficulty": "hard",
+    "questionIds": [
+      "mod-cs-career-interview-q-3",
+      "mod-cs-career-interview-q-7",
+      "mod-cs-career-interview-q-9",
+      "mod-cs-career-interview-q-10",
+      "mod-cs-career-interview-q-13",
+      "mod-cs-career-interview-q-14",
+      "mod-cs-career-interview-q-15",
+      "mod-cs-career-interview-q-18",
+      "mod-cs-career-interview-q-21",
+      "mod-cs-career-interview-q-22",
+      "mod-cs-career-interview-q-23",
+      "mod-cs-career-interview-q-24"
     ],
     "timeLimitMinutes": 30,
     "passingScore": 60
