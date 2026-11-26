@@ -1,6 +1,7 @@
 {
-  "short_name": "OpenSkill Module",
-  "name": "OpenSkill Galaxy — 学习自测模块",
+  "short_name": "计算机求职简历与面试",
+  "name": "OpenSkill Galaxy — 计算机求职简历与面试",
+  "description": "面向计算机相关岗位求职者的岗位认知技术简历项目包装八股复习算法面试项目面试HR面试投递策略面试复盘与Offer选择训练。",
   "icons": [
     {
       "src": "favicon.svg",
@@ -8,9 +9,10 @@
       "sizes": "any"
     }
   ],
-  "start_url": ".",
-  "background_color": "#fbfbfd",
-  "theme_color": "#4f46e5",
+  "start_url": "/module-cs-career-interview/",
+  "scope": "/module-cs-career-interview/",
+  "background_color": "#f4f5fa",
+  "theme_color": "#3039c9",
   "display": "standalone",
   "orientation": "portrait"
 }

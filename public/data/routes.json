@@ -7,43 +7,43 @@
     "steps": [
       {
         "order": 1,
-        "title": "计算机求职简历与面试 环境依赖搭建与运行机制",
-        "description": "学习课时: 了解平台运行依赖、环境参数配置以及本地运行引导流程。",
+        "title": "让简历中的项目可核实",
+        "description": "研习主题包括技术简历、项目包装。",
         "courseId": "mod-cs-career-interview-c-1",
         "lessonId": "mod-cs-career-interview-l-1"
       },
       {
         "order": 2,
-        "title": "计算机求职简历与面试 配置文件覆盖与属性解析",
-        "description": "学习课时: 学习多环境配置管理，利用环境变量覆盖规则进行定制开发。",
+        "title": "讲清项目取舍与个人贡献",
+        "description": "研习主题包括项目包装、面试、项目面试。",
         "courseId": "mod-cs-career-interview-c-1",
         "lessonId": "mod-cs-career-interview-l-2"
       },
       {
         "order": 3,
-        "title": "计算机求职简历与面试 API 接口规范与数据通信",
-        "description": "学习课时: 掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
+        "title": "算法面试中的思路表达",
+        "description": "研习主题包括算法面试、双指针。",
         "courseId": "mod-cs-career-interview-c-2",
         "lessonId": "mod-cs-career-interview-l-3"
       },
       {
         "order": 4,
-        "title": "计算机求职简历与面试 核心控制器与数据校验机制",
-        "description": "学习课时: 掌握核心控制器的异常处理、拦截器配置与入参格式合法性检查。",
+        "title": "复习计算机网络与操作系统",
+        "description": "研习主题包括八股复习、计算机网络、操作系统。",
         "courseId": "mod-cs-career-interview-c-2",
         "lessonId": "mod-cs-career-interview-l-4"
       },
       {
         "order": 5,
-        "title": "计算机求职简历与面试 缓存优化与垃圾回收调优",
-        "description": "学习课时: 定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
+        "title": "校招投递与进度跟踪",
+        "description": "研习主题包括校招、投递策略。",
         "courseId": "mod-cs-career-interview-c-3",
         "lessonId": "mod-cs-career-interview-l-5"
       },
       {
         "order": 6,
-        "title": "计算机求职简历与面试 可观测性日志与分布式链路监控",
-        "description": "学习课时: 配置全局日志收集管道，分析高负载服务下的运行指标波动。",
+        "title": "面试复盘与录用选择",
+        "description": "研习主题包括面试复盘、Offer选择。",
         "courseId": "mod-cs-career-interview-c-3",
         "lessonId": "mod-cs-career-interview-l-6"
       }
@@ -57,22 +57,22 @@
     "steps": [
       {
         "order": 1,
-        "title": "计算机求职简历与面试 环境依赖搭建与运行机制",
-        "description": "学习课时: 了解平台运行依赖、环境参数配置以及本地运行引导流程。",
+        "title": "让简历中的项目可核实",
+        "description": "研习主题包括技术简历、项目包装。",
         "courseId": "mod-cs-career-interview-c-1",
         "lessonId": "mod-cs-career-interview-l-1"
       },
       {
         "order": 3,
-        "title": "计算机求职简历与面试 API 接口规范与数据通信",
-        "description": "学习课时: 掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
+        "title": "算法面试中的思路表达",
+        "description": "研习主题包括算法面试、双指针。",
         "courseId": "mod-cs-career-interview-c-2",
         "lessonId": "mod-cs-career-interview-l-3"
       },
       {
         "order": 5,
-        "title": "计算机求职简历与面试 缓存优化与垃圾回收调优",
-        "description": "学习课时: 定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
+        "title": "校招投递与进度跟踪",
+        "description": "研习主题包括校招、投递策略。",
         "courseId": "mod-cs-career-interview-c-3",
         "lessonId": "mod-cs-career-interview-l-5"
       }

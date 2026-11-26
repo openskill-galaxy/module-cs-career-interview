@@ -1,71 +1,60 @@
 [
   {
     "id": "mod-cs-career-interview-c-1",
-    "title": "计算机求职简历与面试 架构原理与初始化",
+    "title": "让简历中的项目可核实 / 讲清项目取舍与个人贡献",
     "slug": "course-1",
-    "summary": "深度探索 计算机求职简历与面试 的设计理念、运行架构以及初始化配置引导。",
+    "summary": "例题研习覆盖技术简历、项目包装、面试、项目面试。",
     "order": 1,
     "difficulty": "easy",
-    "estimatedHours": 50,
+    "estimatedHours": 0.3,
     "lessons": [
       "mod-cs-career-interview-l-1",
       "mod-cs-career-interview-l-2"
     ],
     "tags": [
-      "计算机求职",
       "技术简历",
-      "面试",
-      "校招",
-      "实习",
       "项目包装",
-      "算法面试",
-      "HR面试"
+      "面试",
+      "项目面试"
     ]
   },
   {
     "id": "mod-cs-career-interview-c-2",
-    "title": "计算机求职简历与面试 核心机制与开发实战",
+    "title": "算法面试中的思路表达 / 复习计算机网络与操作系统",
     "slug": "course-2",
-    "summary": "掌握 计算机求职简历与面试 的核心组件、API 接口调用以及本地开发调试。",
+    "summary": "例题研习覆盖算法面试、双指针、八股复习、计算机网络、操作系统。",
     "order": 2,
     "difficulty": "easy",
-    "estimatedHours": 50,
+    "estimatedHours": 0.4,
     "lessons": [
       "mod-cs-career-interview-l-3",
       "mod-cs-career-interview-l-4"
     ],
     "tags": [
-      "计算机求职",
-      "技术简历",
-      "面试",
-      "校招",
-      "实习",
-      "项目包装",
       "算法面试",
-      "HR面试"
+      "双指针",
+      "八股复习",
+      "计算机网络",
+      "操作系统"
     ]
   },
   {
     "id": "mod-cs-career-interview-c-3",
-    "title": "计算机求职简历与面试 高级优化与生产部署",
+    "title": "校招投递与进度跟踪 / 面试复盘与录用选择",
     "slug": "course-3",
-    "summary": "学习如何进行系统性能监控调优、高可用集群部署与数据存储。",
+    "summary": "例题研习覆盖校招、投递策略、面试复盘、Offer选择。",
     "order": 3,
     "difficulty": "easy",
-    "estimatedHours": 50,
+    "estimatedHours": 0.4,
     "lessons": [
       "mod-cs-career-interview-l-5",
       "mod-cs-career-interview-l-6"
     ],
     "tags": [
-      "计算机求职",
-      "技术简历",
-      "面试",
       "校招",
-      "实习",
-      "项目包装",
-      "算法面试",
-      "HR面试"
+      "投递策略",
+      "面试复盘",
+      "Offer选择"
     ]
   }
 ]
